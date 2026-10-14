@@ -1,0 +1,13 @@
+﻿tienda,nombre,tipo,piloto,inicio_piloto
+T01,Estación Central,estación,no,
+T02,Torre Norte,oficinas,no,
+T03,Campus,universidad,sí,2025-04-07
+T04,Plaza Mayor,centro,no,
+T05,Mercado,barrio,sí,2025-04-07
+T06,Parque Sur,barrio,no,
+T07,Hospital,hospital,sí,2025-04-07
+T08,Distrito Financiero,oficinas,no,
+T09,Intercambiador,estación,no,
+T10,Barrio Alto,barrio,sí,2025-04-07
+T11,Riberas,barrio,no,
+T12,Centro Comercial,comercial,no,
