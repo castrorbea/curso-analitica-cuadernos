@@ -16,5 +16,6 @@ Datos sintéticos, generados para el curso con semilla 2026. Son inventados y no
 | `malla_h3/` | Malla H3-8 con capas de contexto y pérdidas de señal |
 | `embudo/` | Simulación del embudo de Deming |
 | `challenger/` | Datos públicos de los 23 vuelos anteriores al Challenger (ver `FUENTE.md`) |
+| `informe_comite/` | Hoja para imprimir con los cinco gráficos del ejercicio de títulos (4.4) |
 
 Cada cuaderno explica las columnas que usa.
