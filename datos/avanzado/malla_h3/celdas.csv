@@ -1,0 +1,596 @@
+h3,lat,lon,distrito,barrio,cobertura_dbm,cobertura,pasos_subterraneos,soportales,aparcamientos_subterraneos,viajes_que_cruzan,perdidas_senal
+88356520c9fffff,39.979033,-12.659984,Jardín Botánico,Jardín Botánico 2,-84,buena,0,False,0,243,0
+88356520cbfffff,39.971105,-12.654649,Jardín Botánico,Jardín Botánico 1,-85,buena,0,False,0,163,0
+88356520d1fffff,39.955249,-12.643984,Jardín Botánico,Jardín Botánico 1,-85,buena,0,False,0,281,0
+88356520d3fffff,39.947321,-12.638653,Jardín Botánico,Jardín Botánico 1,-87,buena,0,False,0,854,2
+88356520d9fffff,39.962695,-12.637894,Jardín Botánico,Jardín Botánico 1,-87,buena,0,False,0,937,2
+88356520dbfffff,39.954767,-12.632563,Jardín Botánico,Jardín Botánico 1,-86,buena,0,False,0,278,0
+88356520ddfffff,39.963177,-12.649316,Jardín Botánico,Jardín Botánico 1,-83,buena,0,False,0,122,1
+8835652211fffff,40.040039,-12.645526,Polideportivo,Polideportivo 1,-84,buena,0,False,0,403,2
+8835652213fffff,40.032111,-12.640189,Polideportivo,Polideportivo 1,-86,buena,0,False,0,393,0
+8835652215fffff,40.040522,-12.65696,Polideportivo,Polideportivo 1,-86,buena,0,False,0,245,0
+8835652217fffff,40.032595,-12.651622,Polideportivo,Polideportivo 1,-82,buena,0,False,0,425,1
+8835652219fffff,40.047481,-12.63943,Polideportivo,Polideportivo 1,-86,buena,0,True,0,432,0
+883565221bfffff,40.039554,-12.634093,Polideportivo,Polideportivo 1,-89,buena,0,False,0,358,1
+883565221dfffff,40.047966,-12.650864,Polideportivo,Polideportivo 1,-87,buena,0,False,0,208,0
+8835652251fffff,40.06285,-12.638669,Polideportivo,Polideportivo 1,-87,buena,0,False,0,254,1
+8835652253fffff,40.054923,-12.633332,Polideportivo,Polideportivo 1,-89,buena,0,False,0,163,1
+8835652257fffff,40.055408,-12.644767,Polideportivo,Polideportivo 1,-84,buena,0,True,0,414,5
+883565225bfffff,40.062364,-12.627233,Polideportivo,Polideportivo 1,-86,buena,0,False,0,874,2
+8835652281fffff,40.000884,-12.630281,Polideportivo,Polideportivo 4,-83,buena,0,False,0,706,5
+8835652283fffff,39.992956,-12.624949,Jardín Botánico,Jardín Botánico 2,-84,buena,0,False,0,675,1
+8835652285fffff,40.001369,-12.641708,Polideportivo,Polideportivo 4,-85,buena,0,False,0,265,0
+8835652287fffff,39.993441,-12.636374,Jardín Botánico,Jardín Botánico 2,-85,buena,1,False,0,479,3
+8835652289fffff,40.008327,-12.624186,Polideportivo,Polideportivo 4,-83,buena,0,False,0,562,0
+883565228bfffff,40.000399,-12.618854,Polideportivo,Polideportivo 4,-85,buena,0,False,0,579,0
+883565228dfffff,40.008812,-12.635614,Polideportivo,Polideportivo 4,-82,buena,1,False,0,664,7
+8835652291fffff,39.984542,-12.608194,Jardín Botánico,Jardín Botánico 2,-82,buena,0,False,0,1379,1
+8835652293fffff,39.976613,-12.602866,Jardín Botánico,Jardín Botánico 2,-88,buena,0,False,0,1009,3
+8835652295fffff,39.985028,-12.619618,Jardín Botánico,Jardín Botánico 2,-83,buena,0,False,0,545,1
+8835652297fffff,39.977099,-12.614288,Jardín Botánico,Jardín Botánico 2,-86,buena,0,False,0,1559,3
+8835652299fffff,39.991984,-12.6021,Polideportivo,Polideportivo 4,-84,buena,0,False,0,1384,3
+883565229bfffff,39.984055,-12.596772,Jardín Botánico,Jardín Botánico 4,-85,buena,0,False,0,519,0
+883565229dfffff,39.992471,-12.613524,Polideportivo,Polideportivo 4,-82,buena,0,True,0,783,3
+88356522a1fffff,39.994407,-12.659228,Jardín Botánico,Jardín Botánico 2,-88,buena,0,False,0,201,0
+88356522a3fffff,39.986479,-12.653893,Jardín Botánico,Jardín Botánico 2,-85,buena,1,False,0,465,0
+88356522a7fffff,39.986961,-12.665319,Jardín Botánico,Jardín Botánico 2,-87,buena,0,False,0,404,1
+88356522a9fffff,40.001852,-12.653136,Polideportivo,Polideportivo 4,-83,buena,0,False,0,411,1
+88356522abfffff,39.993924,-12.647801,Jardín Botánico,Jardín Botánico 2,-84,buena,0,True,0,344,0
+88356522adfffff,40.002334,-12.664565,Polideportivo,Polideportivo 4,-84,buena,0,False,0,398,0
+88356522b1fffff,39.978068,-12.637134,Jardín Botánico,Jardín Botánico 2,-84,buena,0,False,0,319,0
+88356522b3fffff,39.97014,-12.631803,Jardín Botánico,Jardín Botánico 2,-82,buena,0,False,0,600,0
+88356522b5fffff,39.978551,-12.648559,Jardín Botánico,Jardín Botánico 2,-85,buena,0,False,0,1161,0
+88356522b7fffff,39.970623,-12.643226,Jardín Botánico,Jardín Botánico 2,-86,buena,0,False,0,84,1
+88356522b9fffff,39.985513,-12.631042,Jardín Botánico,Jardín Botánico 2,-84,buena,0,False,0,873,2
+88356522bbfffff,39.977584,-12.625711,Jardín Botánico,Jardín Botánico 2,-86,buena,0,False,0,303,0
+88356522bdfffff,39.985996,-12.642467,Jardín Botánico,Jardín Botánico 2,-83,buena,0,False,0,293,1
+88356522c1fffff,40.023698,-12.623423,Polideportivo,Polideportivo 4,-85,buena,0,False,0,338,0
+88356522c3fffff,40.01577,-12.618091,Polideportivo,Polideportivo 4,-88,buena,0,False,0,370,1
+88356522c5fffff,40.024183,-12.634854,Polideportivo,Polideportivo 4,-82,buena,0,False,0,294,0
+88356522c7fffff,40.016256,-12.629519,Polideportivo,Polideportivo 4,-82,buena,0,True,0,436,2
+88356522c9fffff,40.031139,-12.617327,Polideportivo,Polideportivo 4,-83,buena,0,False,0,473,0
+88356522cbfffff,40.023211,-12.611994,Polideportivo,Polideportivo 4,-86,buena,0,False,0,1458,0
+88356522cdfffff,40.031626,-12.628758,Polideportivo,Polideportivo 4,-84,buena,0,False,0,192,1
+88356522d1fffff,40.007354,-12.601333,Polideportivo,Polideportivo 4,-82,buena,0,False,0,1208,4
+88356522d3fffff,39.999425,-12.596004,Polideportivo,Polideportivo 4,-83,buena,0,False,0,1496,3
+88356522d5fffff,40.007841,-12.612759,Polideportivo,Polideportivo 4,-82,buena,0,False,0,694,3
+88356522d7fffff,39.999913,-12.607429,Polideportivo,Polideportivo 4,-83,buena,0,False,0,1492,4
+88356522d9fffff,40.014795,-12.595236,Polideportivo,Polideportivo 4,-87,buena,0,False,0,2377,3
+88356522dbfffff,40.006866,-12.589907,Polideportivo,Polideportivo 4,-86,buena,0,False,0,1349,3
+88356522ddfffff,40.015283,-12.606663,Polideportivo,Polideportivo 4,-83,buena,0,False,0,643,1
+88356522e1fffff,40.017224,-12.652379,Polideportivo,Polideportivo 4,-81,buena,0,False,0,458,2
+88356522e3fffff,40.009296,-12.647043,Polideportivo,Polideportivo 4,-84,buena,0,False,0,452,3
+88356522e5fffff,40.017706,-12.66381,Polideportivo,Polideportivo 1,-84,buena,0,False,0,341,0
+88356522e7fffff,40.009779,-12.658473,Polideportivo,Polideportivo 4,-86,buena,0,False,0,821,2
+88356522e9fffff,40.024668,-12.646285,Polideportivo,Polideportivo 1,-82,buena,0,False,0,668,1
+88356522ebfffff,40.01674,-12.640949,Polideportivo,Polideportivo 4,-85,buena,0,False,0,825,2
+88356522edfffff,40.025151,-12.657717,Polideportivo,Polideportivo 1,-84,buena,0,False,0,137,0
+8835652441fffff,39.912684,-12.548878,Biblioteca,Biblioteca 2,-86,buena,0,False,0,415,0
+8835652443fffff,39.904753,-12.543563,Biblioteca,Biblioteca 2,-86,buena,0,False,0,691,1
+8835652445fffff,39.913174,-12.560287,Jardín Botánico,Jardín Botánico 3,-83,buena,0,False,0,841,1
+8835652447fffff,39.905243,-12.55497,Biblioteca,Biblioteca 2,-81,buena,0,False,0,751,1
+8835652449fffff,39.920125,-12.542785,Biblioteca,Biblioteca 2,-85,buena,0,False,0,827,4
+883565244bfffff,39.912193,-12.53747,Biblioteca,Biblioteca 2,-83,buena,0,False,0,475,2
+883565244dfffff,39.920615,-12.554195,Jardín Botánico,Jardín Botánico 3,-86,buena,0,False,0,824,2
+8835652459fffff,39.90377,-12.520751,Biblioteca,Biblioteca 2,-83,buena,0,False,0,273,2
+883565245dfffff,39.904262,-12.532157,Biblioteca,Biblioteca 2,-87,buena,0,False,0,356,0
+8835652469fffff,39.913662,-12.571697,Jardín Botánico,Jardín Botánico 3,-85,buena,0,False,0,161,0
+883565246dfffff,39.91415,-12.583107,Jardín Botánico,Jardín Botánico 3,-84,buena,0,False,0,173,0
+8835652601fffff,39.941948,-12.51309,Biblioteca,Biblioteca 3,-82,buena,0,False,0,1244,4
+8835652603fffff,39.934016,-12.507777,Biblioteca,Biblioteca 3,-84,buena,0,True,0,801,1
+8835652605fffff,39.942442,-12.524501,Biblioteca,Biblioteca 3,-83,buena,0,False,0,381,2
+8835652607fffff,39.93451,-12.519187,Biblioteca,Biblioteca 3,-86,buena,0,False,0,1119,1
+8835652609fffff,39.949385,-12.506992,Biblioteca,Biblioteca 3,-85,buena,0,False,0,1983,2
+883565260bfffff,39.941453,-12.50168,Biblioteca,Biblioteca 3,-89,buena,0,False,0,1637,3
+883565260dfffff,39.949879,-12.518404,Biblioteca,Biblioteca 3,-86,buena,0,False,0,1028,2
+8835652611fffff,39.925588,-12.491059,Biblioteca,Biblioteca 5,-89,buena,0,False,0,748,3
+8835652613fffff,39.917656,-12.485751,Biblioteca,Biblioteca 5,-87,buena,0,False,0,1285,0
+8835652615fffff,39.926084,-12.502466,Biblioteca,Biblioteca 3,-86,buena,0,False,0,741,3
+8835652617fffff,39.918152,-12.497156,Biblioteca,Biblioteca 5,-87,buena,0,False,0,581,0
+8835652619fffff,39.933024,-12.484961,Biblioteca,Biblioteca 5,-87,buena,0,False,0,957,2
+883565261bfffff,39.925092,-12.479653,Biblioteca,Biblioteca 5,-88,buena,0,False,0,1293,1
+883565261dfffff,39.933521,-12.496369,Biblioteca,Biblioteca 3,-88,buena,0,False,0,542,1
+8835652621fffff,39.935495,-12.542007,Biblioteca,Biblioteca 3,-82,buena,0,False,0,1359,1
+8835652623fffff,39.927564,-12.536692,Biblioteca,Biblioteca 3,-85,buena,0,False,0,751,0
+8835652625fffff,39.935986,-12.553419,Jardín Botánico,Jardín Botánico 5,-79,buena,0,False,0,503,4
+8835652627fffff,39.928056,-12.548102,Biblioteca,Biblioteca 2,-83,buena,0,False,0,507,0
+8835652629fffff,39.942935,-12.535912,Biblioteca,Biblioteca 3,-84,buena,0,False,0,759,1
+883565262bfffff,39.935003,-12.530597,Biblioteca,Biblioteca 3,-86,buena,0,False,0,498,0
+883565262dfffff,39.943426,-12.547325,Biblioteca,Biblioteca 3,-86,buena,0,False,0,1194,1
+8835652631fffff,39.91914,-12.519969,Biblioteca,Biblioteca 2,-86,buena,0,True,0,1433,0
+8835652633fffff,39.911209,-12.514657,Biblioteca,Biblioteca 2,-85,buena,0,False,0,803,3
+8835652635fffff,39.919633,-12.531377,Biblioteca,Biblioteca 2,-81,buena,1,False,0,1066,5
+8835652637fffff,39.911702,-12.526063,Biblioteca,Biblioteca 2,-85,buena,0,False,0,1356,2
+8835652639fffff,39.926579,-12.513874,Biblioteca,Biblioteca 3,-84,buena,0,False,0,662,0
+883565263bfffff,39.918647,-12.508562,Biblioteca,Biblioteca 2,-84,buena,0,False,0,648,0
+883565263dfffff,39.927072,-12.525282,Biblioteca,Biblioteca 3,-86,buena,0,False,0,1373,3
+8835652641fffff,39.964752,-12.506207,Biblioteca,Biblioteca 1,-82,buena,0,False,0,43379,73
+8835652643fffff,39.956821,-12.500894,Biblioteca,Biblioteca 4,-85,buena,0,False,0,2806,5
+8835652645fffff,39.965248,-12.517621,Biblioteca,Biblioteca 1,-89,buena,0,False,0,13690,28
+8835652647fffff,39.957316,-12.512306,Biblioteca,Biblioteca 4,-85,buena,0,False,0,4332,9
+8835652649fffff,39.972188,-12.500107,Biblioteca,Biblioteca 1,-86,buena,0,False,0,60901,108
+883565264bfffff,39.964256,-12.494794,Biblioteca,Biblioteca 4,-87,buena,0,False,0,12012,29
+883565264dfffff,39.972684,-12.511521,Biblioteca,Biblioteca 1,-85,buena,0,False,0,27910,40
+8835652651fffff,39.948392,-12.484172,Biblioteca,Biblioteca 4,-87,buena,0,False,0,1966,3
+8835652653fffff,39.940459,-12.478863,Lonja,Lonja 2,-87,buena,0,False,0,1661,3
+8835652655fffff,39.948889,-12.495582,Biblioteca,Biblioteca 4,-86,buena,0,False,0,927,2
+8835652657fffff,39.940957,-12.490271,Biblioteca,Biblioteca 3,-86,buena,0,False,0,1088,6
+8835652659fffff,39.955826,-12.478072,Lonja,Lonja 1,-88,buena,0,False,0,877,1
+883565265bfffff,39.947894,-12.472763,Lonja,Lonja 2,-89,buena,0,False,0,1333,5
+883565265dfffff,39.956324,-12.489482,Biblioteca,Biblioteca 4,-87,buena,0,False,0,1384,3
+8835652661fffff,39.958304,-12.535133,Biblioteca,Biblioteca 3,-86,buena,0,False,0,41717,53
+8835652663fffff,39.950373,-12.529816,Biblioteca,Biblioteca 3,-83,buena,1,False,0,2753,6
+8835652665fffff,39.958796,-12.546547,Jardín Botánico,Jardín Botánico 5,-87,buena,0,False,0,7599,12
+8835652667fffff,39.950866,-12.541229,Biblioteca,Biblioteca 3,-87,buena,0,False,0,2364,4
+8835652669fffff,39.965742,-12.529035,Biblioteca,Biblioteca 1,-83,buena,0,False,0,23988,24
+883565266bfffff,39.957811,-12.523719,Biblioteca,Biblioteca 3,-89,buena,0,False,0,7155,12
+883565266dfffff,39.966235,-12.540451,Biblioteca,Biblioteca 1,-88,buena,0,False,0,21161,31
+88356526c1fffff,39.909226,-12.469041,Lonja,Lonja 2,-87,buena,0,False,0,272,0
+88356526c5fffff,39.909723,-12.480443,Biblioteca,Biblioteca 2,-88,buena,0,False,0,432,0
+88356526c9fffff,39.916661,-12.462943,Lonja,Lonja 2,-89,buena,0,False,0,857,4
+88356526cbfffff,39.908728,-12.457638,Lonja,Lonja 2,-90,buena,0,False,0,107,1
+88356526cdfffff,39.917159,-12.474346,Lonja,Lonja 2,-92,media,0,False,0,1528,2
+88356526e1fffff,39.902782,-12.497943,Biblioteca,Biblioteca 2,-84,buena,0,False,0,351,1
+88356526e5fffff,39.903277,-12.509347,Biblioteca,Biblioteca 2,-85,buena,0,False,0,613,1
+88356526e9fffff,39.910219,-12.491847,Biblioteca,Biblioteca 2,-91,buena,0,False,0,342,0
+88356526ebfffff,39.902287,-12.48654,Biblioteca,Biblioteca 2,-87,buena,0,False,0,504,0
+88356526edfffff,39.910715,-12.503252,Biblioteca,Biblioteca 2,-81,buena,0,False,0,343,1
+8835652701fffff,39.945382,-12.592982,Jardín Botánico,Jardín Botánico 3,-91,buena,0,False,0,855,4
+8835652703fffff,39.937453,-12.587659,Jardín Botánico,Jardín Botánico 3,-84,buena,0,True,0,667,1
+8835652705fffff,39.945869,-12.604399,Jardín Botánico,Jardín Botánico 3,-86,buena,0,False,0,254,0
+8835652707fffff,39.937939,-12.599074,Jardín Botánico,Jardín Botánico 3,-84,buena,0,False,0,744,1
+8835652709fffff,39.952825,-12.58689,Jardín Botánico,Jardín Botánico 4,-90,buena,0,False,0,464,0
+883565270bfffff,39.944895,-12.581567,Jardín Botánico,Jardín Botánico 3,-87,buena,0,False,0,334,0
+883565270dfffff,39.953312,-12.598307,Jardín Botánico,Jardín Botánico 4,-87,buena,0,False,0,912,2
+8835652711fffff,39.929035,-12.570924,Jardín Botánico,Jardín Botánico 3,-87,buena,0,False,0,651,3
+8835652713fffff,39.921104,-12.565605,Jardín Botánico,Jardín Botánico 3,-84,buena,0,False,0,223,1
+8835652715fffff,39.929523,-12.582337,Jardín Botánico,Jardín Botánico 3,-86,buena,0,False,0,759,1
+8835652717fffff,39.921593,-12.577016,Jardín Botánico,Jardín Botánico 3,-81,buena,0,False,0,455,0
+8835652719fffff,39.936476,-12.564832,Jardín Botánico,Jardín Botánico 5,-86,buena,0,False,0,1240,2
+883565271bfffff,39.928546,-12.559513,Jardín Botánico,Jardín Botánico 3,-83,buena,0,False,0,238,0
+883565271dfffff,39.936965,-12.576245,Jardín Botánico,Jardín Botánico 3,-85,buena,0,False,0,932,1
+8835652721fffff,39.938909,-12.621906,Jardín Botánico,Jardín Botánico 1,-93,media,0,False,0,199,0
+8835652723fffff,39.93098,-12.61658,Jardín Botánico,Jardín Botánico 3,-87,buena,0,False,0,261,1
+8835652725fffff,39.939393,-12.633324,Jardín Botánico,Jardín Botánico 1,-88,buena,0,False,0,212,2
+8835652729fffff,39.946354,-12.615816,Jardín Botánico,Jardín Botánico 1,-84,buena,0,False,0,646,0
+883565272bfffff,39.938425,-12.61049,Jardín Botánico,Jardín Botánico 3,-89,buena,0,False,0,332,0
+883565272dfffff,39.946838,-12.627234,Jardín Botánico,Jardín Botánico 1,-89,buena,0,False,0,894,2
+8835652731fffff,39.922566,-12.599841,Jardín Botánico,Jardín Botánico 3,-86,buena,0,False,0,260,0
+8835652739fffff,39.93001,-12.59375,Jardín Botánico,Jardín Botánico 3,-88,buena,0,False,0,310,0
+883565273bfffff,39.92208,-12.588428,Jardín Botánico,Jardín Botánico 3,-87,buena,0,False,0,522,0
+883565273dfffff,39.930495,-12.605165,Jardín Botánico,Jardín Botánico 3,-89,buena,0,False,0,243,0
+8835652741fffff,39.968196,-12.58612,Jardín Botánico,Jardín Botánico 4,-86,buena,0,False,0,888,2
+8835652743fffff,39.960267,-12.580796,Jardín Botánico,Jardín Botánico 5,-85,buena,0,False,0,1141,2
+8835652745fffff,39.968684,-12.59754,Jardín Botánico,Jardín Botánico 4,-88,buena,0,False,0,964,4
+8835652747fffff,39.960754,-12.592214,Jardín Botánico,Jardín Botánico 4,-91,buena,0,False,0,1523,2
+8835652749fffff,39.975637,-12.580025,Jardín Botánico,Jardín Botánico 4,-86,buena,0,False,0,927,2
+883565274bfffff,39.967707,-12.574701,Jardín Botánico,Jardín Botánico 5,-86,buena,0,False,0,567,2
+883565274dfffff,39.976126,-12.591445,Jardín Botánico,Jardín Botánico 4,-85,buena,0,False,0,474,1
+8835652751fffff,39.951847,-12.564058,Jardín Botánico,Jardín Botánico 5,-87,buena,0,False,0,767,0
+8835652753fffff,39.943917,-12.558738,Jardín Botánico,Jardín Botánico 5,-82,buena,0,False,0,1553,4
+8835652755fffff,39.952337,-12.575473,Jardín Botánico,Jardín Botánico 5,-87,buena,0,False,0,2137,2
+8835652757fffff,39.944407,-12.570152,Jardín Botánico,Jardín Botánico 5,-88,buena,0,False,0,432,0
+8835652759fffff,39.959287,-12.557963,Jardín Botánico,Jardín Botánico 5,-87,buena,0,False,0,615,1
+883565275bfffff,39.951357,-12.552643,Jardín Botánico,Jardín Botánico 5,-85,buena,0,False,0,2571,5
+883565275dfffff,39.959778,-12.569379,Jardín Botánico,Jardín Botánico 5,-86,buena,0,False,0,691,1
+8835652761fffff,39.961727,-12.615052,Jardín Botánico,Jardín Botánico 2,-85,buena,0,False,0,259,0
+8835652763fffff,39.953798,-12.609725,Jardín Botánico,Jardín Botánico 1,-88,buena,0,False,0,710,1
+8835652765fffff,39.962212,-12.626473,Jardín Botánico,Jardín Botánico 2,-86,buena,0,False,0,474,1
+8835652767fffff,39.954283,-12.621144,Jardín Botánico,Jardín Botánico 1,-88,buena,0,False,0,750,2
+8835652769fffff,39.96917,-12.60896,Jardín Botánico,Jardín Botánico 2,-84,buena,0,False,0,1334,0
+883565276bfffff,39.961241,-12.603633,Jardín Botánico,Jardín Botánico 4,-85,buena,0,False,0,505,1
+883565276dfffff,39.969656,-12.620381,Jardín Botánico,Jardín Botánico 2,-89,buena,0,False,0,345,0
+8835653093fffff,40.084193,-12.597493,Polideportivo,Polideportivo 2,-85,buena,0,False,0,350,0
+8835653401fffff,40.049511,-12.507595,Intermodal,Intermodal 1,-87,buena,0,False,1,3621,10
+8835653403fffff,40.04158,-12.502275,Intermodal,Intermodal 3,-89,buena,0,False,0,4792,7
+8835653405fffff,40.050008,-12.519021,Ayuntamiento,Ayuntamiento 3,-84,buena,0,False,2,3314,4
+8835653407fffff,40.042078,-12.5137,Ayuntamiento,Ayuntamiento 3,-87,buena,0,False,0,7436,17
+8835653409fffff,40.056943,-12.501488,Intermodal,Intermodal 1,-87,buena,0,False,0,453,1
+883565340bfffff,40.049012,-12.496169,Intermodal,Intermodal 3,-84,buena,0,False,0,6192,12
+883565340dfffff,40.057441,-12.512915,Ayuntamiento,Ayuntamiento 1,-89,buena,0,False,0,2531,7
+8835653411fffff,40.03315,-12.485535,Intermodal,Intermodal 3,-86,buena,0,False,0,323020,474
+8835653413fffff,40.025218,-12.480219,Intermodal,Intermodal 3,-90,buena,0,False,0,197306,363
+8835653415fffff,40.033649,-12.496957,Intermodal,Intermodal 3,-83,buena,0,False,0,59056,66
+8835653417fffff,40.025718,-12.49164,Intermodal,Intermodal 3,-85,buena,0,False,1,275241,673
+8835653419fffff,40.040581,-12.479428,Intermodal,Intermodal 3,-84,buena,0,False,0,14330,19
+883565341bfffff,40.032649,-12.474113,Intermodal,Intermodal 3,-88,buena,0,False,0,226068,333
+883565341dfffff,40.041081,-12.490851,Intermodal,Intermodal 3,-86,buena,0,False,0,8510,15
+8835653421fffff,40.04307,-12.536553,Ayuntamiento,Ayuntamiento 3,-98,media,3,False,0,3038,27
+8835653423fffff,40.03514,-12.53123,Ayuntamiento,Ayuntamiento 3,-96,media,2,False,0,138943,968
+8835653425fffff,40.043564,-12.54798,Ayuntamiento,Ayuntamiento 3,-102,mala,3,True,0,2417,32
+8835653427fffff,40.035635,-12.542656,Ayuntamiento,Ayuntamiento 3,-104,mala,3,False,0,36716,244
+8835653429fffff,40.050505,-12.530449,Ayuntamiento,Ayuntamiento 3,-90,buena,0,False,0,953,2
+883565342bfffff,40.042574,-12.525126,Ayuntamiento,Ayuntamiento 3,-90,buena,0,False,0,3131,2
+883565342dfffff,40.051,-12.541877,Ayuntamiento,Ayuntamiento 1,-95,media,0,False,0,1914,1
+8835653431fffff,40.026713,-12.514485,Intermodal,Intermodal 3,-92,media,0,False,0,108824,159
+8835653433fffff,40.018782,-12.509166,Paseo del Río,Paseo del Río 1,-89,buena,0,True,0,200291,821
+8835653435fffff,40.027209,-12.525909,Ayuntamiento,Ayuntamiento 3,-88,buena,0,False,0,266054,335
+8835653437fffff,40.019279,-12.520588,Paseo del Río,Paseo del Río 1,-87,buena,0,True,0,371008,1416
+8835653439fffff,40.034147,-12.508381,Intermodal,Intermodal 3,-88,buena,0,False,0,41373,58
+883565343bfffff,40.026216,-12.503062,Intermodal,Intermodal 3,-85,buena,0,False,0,113869,176
+883565343dfffff,40.034644,-12.519805,Ayuntamiento,Ayuntamiento 3,-88,buena,0,False,0,42377,53
+8835653441fffff,40.072305,-12.5007,Intermodal,Intermodal 2,-85,buena,0,False,0,1678,3
+8835653443fffff,40.064375,-12.49538,Intermodal,Intermodal 1,-88,buena,0,False,0,2173,1
+8835653445fffff,40.072804,-12.51213,Ayuntamiento,Ayuntamiento 4,-86,buena,0,False,0,754,0
+8835653447fffff,40.064874,-12.506808,Ayuntamiento,Ayuntamiento 4,-89,buena,0,False,0,1817,3
+8835653449fffff,40.079736,-12.494591,Intermodal,Intermodal 2,-85,buena,0,False,0,1960,5
+883565344bfffff,40.071806,-12.489272,Intermodal,Intermodal 2,-89,buena,0,False,0,1254,4
+883565344dfffff,40.080236,-12.506022,Ayuntamiento,Ayuntamiento 4,-84,buena,0,False,0,1593,1
+8835653451fffff,40.055943,-12.478636,Intermodal,Intermodal 5,-88,buena,0,False,0,3220,6
+8835653453fffff,40.048012,-12.47332,Intermodal,Intermodal 3,-87,buena,0,False,0,3225,6
+8835653455fffff,40.056444,-12.490062,Intermodal,Intermodal 1,-87,buena,0,True,0,1212,4
+8835653457fffff,40.048512,-12.484744,Intermodal,Intermodal 3,-84,buena,0,False,2,2282,6
+8835653459fffff,40.063373,-12.472527,Intermodal,Intermodal 5,-89,buena,0,False,0,1930,5
+883565345bfffff,40.055442,-12.467211,Intermodal,Intermodal 5,-84,buena,0,False,0,2221,3
+883565345dfffff,40.063874,-12.483953,Intermodal,Intermodal 1,-84,buena,0,False,0,1931,1
+8835653461fffff,40.065869,-12.529667,Ayuntamiento,Ayuntamiento 1,-83,buena,0,False,0,1005,2
+8835653463fffff,40.057939,-12.524343,Ayuntamiento,Ayuntamiento 1,-83,buena,0,True,0,1741,9
+8835653465fffff,40.066364,-12.541097,Ayuntamiento,Ayuntamiento 1,-83,buena,0,False,0,1746,2
+8835653467fffff,40.058435,-12.535772,Ayuntamiento,Ayuntamiento 1,-86,buena,0,False,0,2818,1
+8835653469fffff,40.073302,-12.52356,Ayuntamiento,Ayuntamiento 4,-85,buena,0,False,0,3777,8
+883565346bfffff,40.065372,-12.518237,Ayuntamiento,Ayuntamiento 4,-86,buena,0,False,0,943,2
+883565346dfffff,40.073799,-12.534991,Ayuntamiento,Ayuntamiento 1,-82,buena,1,False,0,951,6
+8835653481fffff,39.99399,-12.470386,Lonja,Lonja 1,-85,buena,0,False,0,32874,48
+8835653483fffff,39.986058,-12.465075,Lonja,Lonja 1,-90,buena,0,False,0,11237,14
+8835653485fffff,39.99449,-12.481801,Lonja,Lonja 1,-81,buena,0,False,0,64017,90
+8835653487fffff,39.986558,-12.476489,Lonja,Lonja 1,-87,buena,0,False,0,35061,68
+8835653489fffff,40.001422,-12.464281,Paseo del Río,Paseo del Río 3,-81,buena,0,False,1,18333,39
+883565348bfffff,39.99349,-12.458971,Lonja,Lonja 1,-86,buena,0,False,0,29511,34
+883565348dfffff,40.001922,-12.475697,Paseo del Río,Paseo del Río 3,-85,buena,0,False,0,157342,397
+8835653491fffff,39.977624,-12.448354,Lonja,Lonja 1,-91,buena,0,False,0,1762,4
+8835653493fffff,39.969691,-12.443047,Lonja,Lonja 1,-90,buena,0,False,0,1141,3
+8835653495fffff,39.978125,-12.459766,Lonja,Lonja 1,-96,media,1,False,0,5237,19
+8835653497fffff,39.970193,-12.454458,Lonja,Lonja 1,-94,media,1,False,0,1732,5
+8835653499fffff,39.985055,-12.442249,Lonja,Lonja 1,-83,buena,0,False,0,1599,2
+883565349bfffff,39.977122,-12.436943,Lonja,Lonja 1,-87,buena,0,False,0,1638,3
+883565349dfffff,39.985557,-12.453662,Lonja,Lonja 1,-89,buena,0,False,0,2963,8
+88356534a1fffff,39.987554,-12.49932,Biblioteca,Biblioteca 1,-85,buena,0,False,0,143265,272
+88356534a3fffff,39.979623,-12.494006,Biblioteca,Biblioteca 1,-87,buena,0,False,0,36612,68
+88356534a5fffff,39.988051,-12.510737,Biblioteca,Biblioteca 1,-85,buena,0,False,0,74318,132
+88356534a7fffff,39.980119,-12.505421,Biblioteca,Biblioteca 1,-90,buena,0,False,0,43034,68
+88356534a9fffff,39.994988,-12.493218,Paseo del Río,Paseo del Río 2,-89,buena,0,False,0,160964,312
+88356534abfffff,39.987057,-12.487904,Biblioteca,Biblioteca 1,-85,buena,0,False,0,52028,100
+88356534adfffff,39.995486,-12.504635,Paseo del Río,Paseo del Río 2,-88,buena,0,False,0,187509,332
+88356534b1fffff,39.971192,-12.477281,Lonja,Lonja 1,-100,mala,1,False,0,64458,273
+88356534b3fffff,39.96326,-12.471971,Lonja,Lonja 1,-95,media,1,False,0,55239,243
+88356534b5fffff,39.971691,-12.488693,Biblioteca,Biblioteca 1,-92,media,0,False,0,25977,54
+88356534b7fffff,39.963759,-12.483382,Lonja,Lonja 1,-92,media,0,False,0,10498,14
+88356534b9fffff,39.978626,-12.471178,Lonja,Lonja 1,-98,media,1,False,0,52710,222
+88356534bbfffff,39.970693,-12.465869,Lonja,Lonja 1,-99,media,1,True,0,9580,94
+88356534bdfffff,39.979125,-12.482592,Lonja,Lonja 1,-89,buena,0,False,0,44386,62
+88356534c1fffff,40.016785,-12.463487,Intermodal,Intermodal 3,-84,buena,0,False,0,51581,101
+88356534c3fffff,40.008853,-12.458175,Auditorio,Auditorio 3,-86,buena,0,False,0,22260,36
+88356534c5fffff,40.017286,-12.474905,Intermodal,Intermodal 3,-82,buena,0,False,0,227439,337
+88356534c7fffff,40.009354,-12.469592,Intermodal,Intermodal 3,-82,buena,0,False,0,37645,54
+88356534c9fffff,40.024216,-12.45738,Auditorio,Auditorio 3,-84,buena,0,False,0,116348,187
+88356534cbfffff,40.016284,-12.452069,Auditorio,Auditorio 3,-80,buena,0,False,0,43820,62
+88356534cdfffff,40.024718,-12.468799,Intermodal,Intermodal 3,-83,buena,0,False,0,105314,165
+88356534d1fffff,40.000418,-12.44145,Auditorio,Auditorio 3,-85,buena,0,False,0,1678,4
+88356534d3fffff,39.992485,-12.436143,Lonja,Lonja 1,-85,buena,0,False,0,687,1
+88356534d5fffff,40.000921,-12.452865,Auditorio,Auditorio 3,-84,buena,0,False,0,8502,9
+88356534d7fffff,39.992988,-12.447557,Lonja,Lonja 1,-85,buena,0,False,0,2535,5
+88356534d9fffff,40.007848,-12.435343,Auditorio,Auditorio 3,-86,buena,0,False,0,2382,3
+88356534dbfffff,39.999915,-12.430037,Auditorio,Auditorio 3,-90,buena,0,False,0,1239,1
+88356534ddfffff,40.008351,-12.446759,Auditorio,Auditorio 3,-83,buena,0,False,0,8086,5
+88356534e1fffff,40.010353,-12.492429,Paseo del Río,Paseo del Río 2,-86,buena,0,False,1,381221,933
+88356534e3fffff,40.002422,-12.487115,Paseo del Río,Paseo del Río 2,-87,buena,0,False,0,209046,292
+88356534e5fffff,40.010851,-12.503849,Paseo del Río,Paseo del Río 2,-86,buena,0,False,0,416022,776
+88356534e7fffff,40.00292,-12.498533,Paseo del Río,Paseo del Río 2,-85,buena,0,False,0,155305,319
+88356534e9fffff,40.017786,-12.486325,Intermodal,Intermodal 3,-84,buena,0,False,0,310298,483
+88356534ebfffff,40.009854,-12.48101,Paseo del Río,Paseo del Río 3,-85,buena,0,False,2,124409,252
+88356534edfffff,40.018285,-12.497745,Intermodal,Intermodal 3,-85,buena,0,False,0,205602,319
+8835653501fffff,40.05297,-12.587598,Polideportivo,Polideportivo 3,-85,buena,0,False,0,1818,2
+8835653503fffff,40.045041,-12.582268,Polideportivo,Polideportivo 4,-86,buena,0,False,0,1599,1
+8835653505fffff,40.05346,-12.59903,Polideportivo,Polideportivo 3,-83,buena,0,False,0,524,1
+8835653507fffff,40.045532,-12.593698,Polideportivo,Polideportivo 4,-87,buena,0,False,0,541,1
+8835653509fffff,40.060408,-12.581496,Polideportivo,Polideportivo 3,-85,buena,0,False,0,1279,3
+883565350bfffff,40.052479,-12.576166,Polideportivo,Polideportivo 3,-88,buena,0,False,0,3392,5
+883565350dfffff,40.060899,-12.592929,Polideportivo,Polideportivo 3,-87,buena,0,False,0,726,1
+8835653511fffff,40.036621,-12.56551,Ayuntamiento,Ayuntamiento 3,-84,buena,0,False,0,86028,151
+8835653513fffff,40.028691,-12.560184,Ayuntamiento,Ayuntamiento 3,-85,buena,0,False,0,65115,108
+8835653515fffff,40.037112,-12.576939,Polideportivo,Polideportivo 4,-84,buena,0,False,0,68939,83
+8835653517fffff,40.029183,-12.571611,Polideportivo,Polideportivo 5,-89,buena,0,False,0,51604,76
+8835653519fffff,40.044058,-12.559408,Ayuntamiento,Ayuntamiento 1,-94,media,0,False,0,2520,3
+883565351bfffff,40.036128,-12.554083,Ayuntamiento,Ayuntamiento 3,-100,mala,3,False,0,55834,423
+883565351dfffff,40.04455,-12.570838,Polideportivo,Polideportivo 4,-86,buena,0,False,0,1641,4
+8835653521fffff,40.046508,-12.616562,Polideportivo,Polideportivo 1,-85,buena,0,False,0,853,2
+8835653523fffff,40.03858,-12.611229,Polideportivo,Polideportivo 4,-83,buena,0,False,0,938,1
+8835653525fffff,40.046995,-12.627995,Polideportivo,Polideportivo 1,-86,buena,0,False,0,239,0
+8835653527fffff,40.039068,-12.62266,Polideportivo,Polideportivo 1,-84,buena,0,False,0,271,0
+8835653529fffff,40.053949,-12.610463,Polideportivo,Polideportivo 3,-87,buena,0,False,0,650,1
+883565352bfffff,40.046021,-12.60513,Polideportivo,Polideportivo 1,-86,buena,0,False,0,1144,2
+883565352dfffff,40.054436,-12.621897,Polideportivo,Polideportivo 1,-89,buena,0,False,0,969,0
+8835653531fffff,40.030164,-12.594467,Polideportivo,Polideportivo 4,-82,buena,0,False,0,838,1
+8835653533fffff,40.022235,-12.589138,Polideportivo,Polideportivo 4,-83,buena,0,False,0,1093,2
+8835653535fffff,40.030652,-12.605896,Polideportivo,Polideportivo 4,-85,buena,0,False,0,992,1
+8835653537fffff,40.022724,-12.600565,Polideportivo,Polideportivo 4,-85,buena,0,False,0,646,1
+8835653539fffff,40.037603,-12.588368,Polideportivo,Polideportivo 4,-87,buena,0,False,0,1133,2
+883565353bfffff,40.029674,-12.583039,Polideportivo,Polideportivo 4,-89,buena,0,False,0,14197,21
+883565353dfffff,40.038092,-12.599798,Polideportivo,Polideportivo 4,-86,buena,0,False,0,891,1
+8835653541fffff,40.075774,-12.580724,Polideportivo,Polideportivo 3,-87,buena,0,True,0,1496,7
+8835653543fffff,40.067845,-12.575393,Polideportivo,Polideportivo 3,-87,buena,0,False,0,993,2
+8835653545fffff,40.076265,-12.59216,Polideportivo,Polideportivo 3,-86,buena,0,False,0,305,1
+8835653547fffff,40.068337,-12.586827,Polideportivo,Polideportivo 3,-86,buena,0,False,0,1793,1
+8835653549fffff,40.083211,-12.57462,Ayuntamiento,Ayuntamiento 1,-86,buena,0,False,0,521,1
+883565354bfffff,40.075282,-12.56929,Ayuntamiento,Ayuntamiento 1,-81,buena,0,False,0,524,0
+883565354dfffff,40.083703,-12.586056,Polideportivo,Polideportivo 3,-86,buena,0,False,0,589,4
+8835653551fffff,40.059424,-12.558632,Ayuntamiento,Ayuntamiento 1,-85,buena,0,False,0,2227,3
+8835653553fffff,40.051494,-12.553306,Ayuntamiento,Ayuntamiento 1,-89,buena,0,False,0,1496,2
+8835653555fffff,40.059916,-12.570064,Ayuntamiento,Ayuntamiento 1,-87,buena,0,False,0,1988,4
+8835653557fffff,40.051987,-12.564736,Ayuntamiento,Ayuntamiento 1,-86,buena,0,False,0,1272,1
+8835653559fffff,40.066859,-12.552528,Ayuntamiento,Ayuntamiento 1,-81,buena,0,False,0,2743,2
+883565355bfffff,40.05893,-12.547202,Ayuntamiento,Ayuntamiento 1,-85,buena,0,False,0,592,0
+883565355dfffff,40.067353,-12.563961,Ayuntamiento,Ayuntamiento 1,-85,buena,0,False,0,879,2
+8835653561fffff,40.069316,-12.609697,Polideportivo,Polideportivo 3,-89,buena,0,False,0,400,1
+8835653563fffff,40.061388,-12.604363,Polideportivo,Polideportivo 3,-87,buena,0,False,0,614,0
+8835653565fffff,40.069804,-12.621133,Polideportivo,Polideportivo 2,-84,buena,0,False,0,636,1
+8835653567fffff,40.061877,-12.615798,Polideportivo,Polideportivo 3,-89,buena,0,False,0,508,1
+8835653569fffff,40.076755,-12.603596,Polideportivo,Polideportivo 3,-85,buena,0,False,0,333,0
+883565356bfffff,40.068827,-12.598262,Polideportivo,Polideportivo 3,-84,buena,0,False,0,1402,3
+883565356dfffff,40.077244,-12.615033,Polideportivo,Polideportivo 2,-87,buena,0,False,0,505,2
+8835653581fffff,39.997464,-12.550313,Paseo del Río,Paseo del Río 1,-87,buena,0,False,0,15236,29
+8835653583fffff,39.989534,-12.544992,Paseo del Río,Paseo del Río 2,-88,buena,0,False,0,94996,148
+8835653585fffff,39.997956,-12.561735,Polideportivo,Polideportivo 5,-87,buena,0,False,0,9156,13
+8835653587fffff,39.990026,-12.556412,Paseo del Río,Paseo del Río 2,-92,media,0,False,0,8579,13
+8835653589fffff,40.004902,-12.544213,Paseo del Río,Paseo del Río 1,-89,buena,0,False,0,25174,37
+883565358bfffff,39.996971,-12.538892,Paseo del Río,Paseo del Río 2,-88,buena,0,False,0,69298,100
+883565358dfffff,40.005394,-12.555636,Ayuntamiento,Ayuntamiento 3,-86,buena,0,False,1,14859,29
+8835653591fffff,39.98111,-12.528254,Biblioteca,Biblioteca 1,-87,buena,0,False,0,25590,46
+8835653593fffff,39.973179,-12.522937,Biblioteca,Biblioteca 1,-88,buena,0,False,0,24696,48
+8835653595fffff,39.981603,-12.539672,Jardín Botánico,Jardín Botánico 5,-85,buena,0,False,0,37720,63
+8835653597fffff,39.973673,-12.534353,Biblioteca,Biblioteca 1,-87,buena,0,False,0,22246,38
+8835653599fffff,39.988546,-12.522154,Paseo del Río,Paseo del Río 2,-93,media,0,True,0,69664,235
+883565359bfffff,39.980615,-12.516837,Biblioteca,Biblioteca 1,-86,buena,1,False,0,70982,295
+883565359dfffff,39.989041,-12.533573,Paseo del Río,Paseo del Río 2,-86,buena,0,False,0,121626,192
+88356535a1fffff,39.991007,-12.579254,Polideportivo,Polideportivo 5,-85,buena,0,False,0,2457,5
+88356535a3fffff,39.983078,-12.573929,Jardín Botánico,Jardín Botánico 5,-84,buena,0,False,0,1022,2
+88356535a5fffff,39.991496,-12.590676,Polideportivo,Polideportivo 5,-83,buena,0,False,0,1406,5
+88356535a7fffff,39.983567,-12.58535,Jardín Botánico,Jardín Botánico 4,-87,buena,0,False,0,1178,0
+88356535a9fffff,39.998447,-12.573157,Polideportivo,Polideportivo 5,-87,buena,0,False,0,7752,14
+88356535abfffff,39.990517,-12.567832,Polideportivo,Polideportivo 5,-87,buena,0,False,0,2643,1
+88356535adfffff,39.998937,-12.58458,Polideportivo,Polideportivo 5,-88,buena,0,False,0,1088,2
+88356535b1fffff,39.974657,-12.557187,Jardín Botánico,Jardín Botánico 5,-88,buena,0,False,0,5108,2
+88356535b3fffff,39.966727,-12.551867,Jardín Botánico,Jardín Botánico 5,-88,buena,0,False,0,5336,8
+88356535b5fffff,39.975148,-12.568606,Jardín Botánico,Jardín Botánico 5,-90,buena,0,False,0,1296,1
+88356535b7fffff,39.967218,-12.563284,Jardín Botánico,Jardín Botánico 5,-89,buena,0,False,0,1718,3
+88356535b9fffff,39.982096,-12.55109,Jardín Botánico,Jardín Botánico 5,-88,buena,0,False,0,37213,50
+88356535bbfffff,39.974165,-12.54577,Jardín Botánico,Jardín Botánico 5,-90,buena,0,False,0,42198,63
+88356535bdfffff,39.982587,-12.562509,Jardín Botánico,Jardín Botánico 5,-88,buena,0,False,0,3344,2
+88356535c1fffff,40.020268,-12.543435,Ayuntamiento,Ayuntamiento 3,-92,media,0,False,0,46075,65
+88356535c3fffff,40.012338,-12.538113,Ayuntamiento,Ayuntamiento 3,-87,buena,0,False,0,53424,90
+88356535c5fffff,40.020762,-12.554859,Ayuntamiento,Ayuntamiento 3,-88,buena,0,False,0,35581,48
+88356535c7fffff,40.012832,-12.549536,Ayuntamiento,Ayuntamiento 3,-88,buena,0,False,0,23584,31
+88356535c9fffff,40.027704,-12.537333,Ayuntamiento,Ayuntamiento 3,-91,buena,0,False,0,98682,124
+88356535cbfffff,40.019774,-12.532011,Ayuntamiento,Ayuntamiento 3,-90,buena,0,False,0,235044,507
+88356535cdfffff,40.028198,-12.548758,Ayuntamiento,Ayuntamiento 3,-92,media,0,False,2,80017,138
+88356535d1fffff,40.003913,-12.521371,Paseo del Río,Paseo del Río 2,-85,buena,0,False,2,90036,176
+88356535d3fffff,39.995982,-12.516053,Paseo del Río,Paseo del Río 2,-83,buena,0,False,0,100057,154
+88356535d5fffff,40.004408,-12.532792,Paseo del Río,Paseo del Río 1,-91,buena,0,False,0,61457,89
+88356535d7fffff,39.996477,-12.527472,Paseo del Río,Paseo del Río 2,-87,buena,0,False,2,80824,199
+88356535d9fffff,40.011348,-12.515269,Paseo del Río,Paseo del Río 1,-88,buena,0,True,0,149108,522
+88356535dbfffff,40.003417,-12.509952,Paseo del Río,Paseo del Río 2,-84,buena,0,False,0,139282,220
+88356535ddfffff,40.011844,-12.526691,Paseo del Río,Paseo del Río 1,-86,buena,0,True,0,96924,346
+88356535e1fffff,40.013815,-12.572384,Polideportivo,Polideportivo 5,-87,buena,0,False,0,43860,68
+88356535e3fffff,40.005886,-12.567059,Polideportivo,Polideportivo 5,-87,buena,0,False,0,11379,17
+88356535e5fffff,40.014306,-12.583809,Polideportivo,Polideportivo 4,-84,buena,0,False,0,51850,81
+88356535e7fffff,40.006376,-12.578483,Polideportivo,Polideportivo 5,-87,buena,0,False,0,3850,6
+88356535e9fffff,40.021254,-12.566285,Polideportivo,Polideportivo 5,-88,buena,0,False,0,26715,46
+88356535ebfffff,40.013324,-12.560959,Polideportivo,Polideportivo 5,-86,buena,0,False,0,30768,50
+88356535edfffff,40.021745,-12.577711,Polideportivo,Polideportivo 5,-89,buena,0,False,0,15255,26
+8835653603fffff,40.09359,-12.45951,Intermodal,Intermodal 4,-90,buena,0,False,0,278,0
+8835653605fffff,40.102025,-12.476259,Intermodal,Intermodal 4,-90,buena,0,False,0,540,0
+8835653607fffff,40.094094,-12.47094,Intermodal,Intermodal 4,-85,buena,0,False,0,285,2
+8835653611fffff,40.085154,-12.442766,Auditorio,Auditorio 2,-87,buena,0,False,0,845,0
+8835653613fffff,40.077222,-12.437453,Auditorio,Auditorio 2,-90,buena,0,False,0,1299,2
+8835653615fffff,40.085659,-12.454194,Auditorio,Auditorio 2,-88,buena,0,False,0,759,0
+8835653617fffff,40.077727,-12.448879,Auditorio,Auditorio 1,-87,buena,0,False,0,558,0
+8835653619fffff,40.09258,-12.436652,Auditorio,Auditorio 2,-86,buena,0,False,0,360,1
+883565361bfffff,40.084648,-12.431339,Auditorio,Auditorio 2,-84,buena,0,False,0,470,1
+883565361dfffff,40.093086,-12.448081,Auditorio,Auditorio 2,-89,buena,0,False,0,497,0
+8835653621fffff,40.095097,-12.493802,Intermodal,Intermodal 4,-86,buena,0,False,0,832,2
+8835653623fffff,40.087167,-12.488482,Intermodal,Intermodal 4,-88,buena,0,False,0,853,3
+8835653625fffff,40.095597,-12.505235,Ayuntamiento,Ayuntamiento 5,-86,buena,0,False,0,1377,1
+8835653627fffff,40.087667,-12.499913,Ayuntamiento,Ayuntamiento 5,-84,buena,0,False,0,519,0
+8835653629fffff,40.102527,-12.487691,Intermodal,Intermodal 4,-86,buena,0,False,0,366,1
+883565362bfffff,40.094596,-12.482371,Intermodal,Intermodal 4,-88,buena,0,False,0,854,0
+883565362dfffff,40.103028,-12.499124,Ayuntamiento,Ayuntamiento 5,-85,buena,0,False,0,725,2
+8835653631fffff,40.078734,-12.471734,Intermodal,Intermodal 5,-92,media,0,False,0,689,1
+8835653633fffff,40.070802,-12.466417,Intermodal,Intermodal 5,-88,buena,0,False,0,2810,6
+8835653635fffff,40.079236,-12.483162,Intermodal,Intermodal 2,-90,buena,0,True,0,1509,6
+8835653637fffff,40.071305,-12.477844,Intermodal,Intermodal 5,-84,buena,0,False,0,598,1
+8835653639fffff,40.086163,-12.465622,Intermodal,Intermodal 4,-88,buena,0,False,0,739,1
+883565363bfffff,40.078231,-12.460306,Intermodal,Intermodal 5,-91,buena,0,False,0,668,1
+883565363dfffff,40.086665,-12.477051,Intermodal,Intermodal 4,-91,buena,0,False,0,989,0
+8835653681fffff,40.045998,-12.427632,Auditorio,Auditorio 4,-83,buena,0,True,0,1105,4
+8835653683fffff,40.038065,-12.422324,Auditorio,Auditorio 4,-86,buena,0,False,0,512,1
+8835653685fffff,40.046503,-12.439053,Auditorio,Auditorio 1,-86,buena,0,False,0,2317,1
+8835653687fffff,40.03857,-12.433743,Auditorio,Auditorio 4,-86,buena,0,False,0,1581,2
+8835653689fffff,40.053424,-12.421521,Auditorio,Auditorio 4,-83,buena,0,False,0,2893,3
+883565368bfffff,40.045491,-12.416212,Auditorio,Auditorio 4,-85,buena,0,False,0,1380,1
+883565368dfffff,40.05393,-12.432942,Auditorio,Auditorio 1,-83,buena,0,False,0,1754,5
+8835653691fffff,40.029625,-12.405599,Auditorio,Auditorio 4,-85,buena,1,False,0,1832,8
+8835653693fffff,40.021691,-12.400295,Auditorio,Auditorio 3,-88,buena,0,False,0,1565,2
+8835653695fffff,40.030132,-12.417016,Auditorio,Auditorio 4,-81,buena,0,False,0,847,1
+8835653697fffff,40.022198,-12.41171,Auditorio,Auditorio 3,-84,buena,0,False,0,2441,5
+8835653699fffff,40.037051,-12.399488,Auditorio,Auditorio 4,-89,buena,0,True,0,1369,3
+883565369bfffff,40.029117,-12.394184,Auditorio,Auditorio 4,-84,buena,0,False,0,364,0
+883565369dfffff,40.037558,-12.410905,Auditorio,Auditorio 4,-87,buena,1,False,0,1697,9
+88356536a1fffff,40.039578,-12.456584,Auditorio,Auditorio 1,-86,buena,0,False,0,26598,37
+88356536a3fffff,40.031646,-12.451272,Auditorio,Auditorio 1,-85,buena,0,False,0,73819,111
+88356536a5fffff,40.04008,-12.468005,Intermodal,Intermodal 3,-85,buena,0,False,0,100790,152
+88356536a7fffff,40.032148,-12.462692,Intermodal,Intermodal 3,-84,buena,0,False,0,75656,124
+88356536a9fffff,40.047007,-12.450474,Auditorio,Auditorio 1,-86,buena,0,False,0,2739,4
+88356536abfffff,40.039075,-12.445163,Auditorio,Auditorio 1,-88,buena,0,False,0,82107,115
+88356536adfffff,40.04751,-12.461897,Intermodal,Intermodal 5,-85,buena,0,False,0,5221,12
+88356536b1fffff,40.023209,-12.434543,Auditorio,Auditorio 3,-88,buena,0,False,0,54075,97
+88356536b3fffff,40.015276,-12.429235,Auditorio,Auditorio 3,-81,buena,0,False,0,1398,3
+88356536b5fffff,40.023713,-12.445961,Auditorio,Auditorio 3,-85,buena,0,True,0,42284,170
+88356536b7fffff,40.01578,-12.440652,Auditorio,Auditorio 3,-84,buena,0,False,0,53617,83
+88356536b9fffff,40.030637,-12.428434,Auditorio,Auditorio 4,-81,buena,0,False,0,8103,15
+88356536bbfffff,40.022704,-12.423126,Auditorio,Auditorio 3,-88,buena,0,False,0,1024,5
+88356536bdfffff,40.031142,-12.439852,Auditorio,Auditorio 3,-85,buena,0,False,0,22093,38
+88356536c1fffff,40.068783,-12.420717,Auditorio,Auditorio 1,-85,buena,0,False,0,1053,1
+88356536c3fffff,40.06085,-12.415408,Auditorio,Auditorio 1,-82,buena,0,False,0,1562,3
+88356536c5fffff,40.06929,-12.432141,Auditorio,Auditorio 1,-88,buena,0,False,0,763,0
+88356536c7fffff,40.061357,-12.42683,Auditorio,Auditorio 1,-85,buena,1,True,0,555,4
+88356536c9fffff,40.076208,-12.414603,Auditorio,Auditorio 2,-87,buena,0,False,0,381,1
+88356536cbfffff,40.068276,-12.409294,Auditorio,Auditorio 2,-84,buena,0,False,0,1999,2
+88356536cdfffff,40.076716,-12.426028,Auditorio,Auditorio 2,-83,buena,0,False,0,351,0
+88356536d1fffff,40.052409,-12.39868,Auditorio,Auditorio 4,-82,buena,0,False,0,379,0
+88356536d3fffff,40.044476,-12.393375,Auditorio,Auditorio 4,-86,buena,0,False,0,931,1
+88356536d5fffff,40.052917,-12.4101,Auditorio,Auditorio 4,-80,buena,0,False,0,990,0
+88356536d7fffff,40.044984,-12.404793,Auditorio,Auditorio 4,-86,buena,0,False,0,938,3
+88356536d9fffff,40.059834,-12.392566,Auditorio,Auditorio 5,-84,buena,0,False,0,1255,1
+88356536dbfffff,40.0519,-12.387261,Auditorio,Auditorio 5,-85,buena,0,True,0,954,2
+88356536ddfffff,40.060342,-12.403987,Auditorio,Auditorio 5,-84,buena,0,False,0,739,2
+88356536e1fffff,40.062367,-12.449677,Auditorio,Auditorio 1,-88,buena,0,False,0,3092,7
+88356536e3fffff,40.054435,-12.444364,Auditorio,Auditorio 1,-90,buena,0,False,0,371,1
+88356536e5fffff,40.062871,-12.461101,Intermodal,Intermodal 5,-85,buena,0,False,0,1518,2
+88356536e7fffff,40.054939,-12.455787,Auditorio,Auditorio 1,-83,buena,0,False,0,1767,1
+88356536e9fffff,40.069795,-12.443565,Auditorio,Auditorio 1,-92,media,0,False,0,1379,2
+88356536ebfffff,40.061863,-12.438253,Auditorio,Auditorio 1,-87,buena,0,False,0,2122,5
+88356536edfffff,40.070299,-12.454991,Auditorio,Auditorio 1,-90,buena,0,False,0,1435,2
+8835653703fffff,40.097091,-12.539537,Ayuntamiento,Ayuntamiento 2,-80,buena,0,False,0,992,2
+8835653707fffff,40.097587,-12.550973,Ayuntamiento,Ayuntamiento 2,-84,buena,0,False,0,254,1
+8835653711fffff,40.088665,-12.522777,Ayuntamiento,Ayuntamiento 4,-84,buena,0,False,0,498,0
+8835653713fffff,40.080734,-12.517453,Ayuntamiento,Ayuntamiento 4,-86,buena,0,False,0,1039,6
+8835653715fffff,40.089162,-12.53421,Ayuntamiento,Ayuntamiento 4,-82,buena,0,False,0,697,0
+8835653717fffff,40.081232,-12.528885,Ayuntamiento,Ayuntamiento 4,-85,buena,0,False,0,2418,4
+8835653719fffff,40.096096,-12.516668,Ayuntamiento,Ayuntamiento 4,-83,buena,0,False,0,598,0
+883565371bfffff,40.088166,-12.511344,Ayuntamiento,Ayuntamiento 4,-84,buena,0,False,0,897,3
+883565371dfffff,40.096594,-12.528102,Ayuntamiento,Ayuntamiento 2,-84,buena,0,False,0,1190,5
+8835653723fffff,40.090646,-12.568516,Ayuntamiento,Ayuntamiento 2,-80,buena,0,False,0,886,1
+8835653727fffff,40.091139,-12.579952,Polideportivo,Polideportivo 2,-84,buena,0,False,0,195,3
+883565372bfffff,40.098082,-12.56241,Ayuntamiento,Ayuntamiento 2,-84,buena,0,False,0,789,2
+8835653731fffff,40.082223,-12.551751,Ayuntamiento,Ayuntamiento 1,-85,buena,0,False,0,1074,5
+8835653733fffff,40.074294,-12.546423,Ayuntamiento,Ayuntamiento 1,-84,buena,0,False,0,1447,2
+8835653735fffff,40.082718,-12.563185,Ayuntamiento,Ayuntamiento 1,-83,buena,0,False,0,880,2
+8835653737fffff,40.074788,-12.557856,Ayuntamiento,Ayuntamiento 1,-86,buena,0,False,0,2111,2
+8835653739fffff,40.089658,-12.545645,Ayuntamiento,Ayuntamiento 2,-85,buena,0,False,0,631,2
+883565373bfffff,40.081728,-12.540317,Ayuntamiento,Ayuntamiento 4,-85,buena,0,False,0,778,0
+883565373dfffff,40.090153,-12.55708,Ayuntamiento,Ayuntamiento 2,-83,buena,0,False,0,876,3
+8835653753fffff,40.103528,-12.510558,Ayuntamiento,Ayuntamiento 5,-88,buena,0,False,0,295,0
+8835653757fffff,40.104026,-12.521993,Ayuntamiento,Ayuntamiento 2,-83,buena,0,False,0,219,0
+8839369105fffff,40.035009,-12.353826,Auditorio,Auditorio 5,-87,buena,0,False,0,351,1
+883936910dfffff,40.042944,-12.359125,Auditorio,Auditorio 5,-87,buena,0,False,0,433,1
+8839369121fffff,40.019652,-12.354642,Auditorio,Auditorio 5,-88,buena,0,False,0,514,2
+8839369125fffff,40.012229,-12.360756,Auditorio,Auditorio 3,-86,buena,0,False,0,461,1
+8839369127fffff,40.011717,-12.349345,Auditorio,Auditorio 3,-89,buena,0,False,0,268,0
+8839369129fffff,40.027587,-12.359941,Auditorio,Auditorio 5,-86,buena,0,False,0,782,0
+883936912dfffff,40.020163,-12.366054,Auditorio,Auditorio 4,-86,buena,0,False,0,1227,2
+8839369145fffff,40.05139,-12.375843,Auditorio,Auditorio 5,-84,buena,1,False,0,441,2
+8839369147fffff,40.050878,-12.364426,Auditorio,Auditorio 5,-84,buena,0,False,0,394,0
+883936914dfffff,40.059324,-12.381146,Auditorio,Auditorio 5,-85,buena,0,False,0,260,0
+8839369161fffff,40.036032,-12.376655,Auditorio,Auditorio 5,-86,buena,0,False,0,752,2
+8839369163fffff,40.035521,-12.36524,Auditorio,Auditorio 5,-84,buena,0,False,0,165,0
+8839369165fffff,40.028608,-12.382768,Auditorio,Auditorio 4,-87,buena,0,False,0,413,0
+8839369167fffff,40.028098,-12.371354,Auditorio,Auditorio 4,-87,buena,0,False,0,866,2
+8839369169fffff,40.043966,-12.381958,Auditorio,Auditorio 5,-87,buena,0,False,0,577,3
+883936916bfffff,40.043456,-12.370541,Auditorio,Auditorio 5,-85,buena,0,False,0,136,0
+883936916dfffff,40.036542,-12.388071,Auditorio,Auditorio 4,-85,buena,0,False,0,217,0
+8839369325fffff,40.067767,-12.397872,Auditorio,Auditorio 5,-85,buena,0,False,0,321,0
+8839369327fffff,40.067257,-12.386451,Auditorio,Auditorio 5,-83,buena,0,False,0,532,0
+883936932dfffff,40.0757,-12.40318,Auditorio,Auditorio 2,-85,buena,0,False,0,279,0
+8839369365fffff,40.084141,-12.419913,Auditorio,Auditorio 2,-85,buena,0,False,0,334,0
+8839369367fffff,40.083633,-12.408488,Auditorio,Auditorio 2,-84,buena,0,False,0,432,0
+8839369841fffff,39.951298,-12.375415,Lonja,Lonja 5,-85,buena,0,False,0,234,0
+8839369845fffff,39.943871,-12.381521,Lonja,Lonja 5,-87,buena,0,False,0,401,1
+8839369849fffff,39.959233,-12.380711,Lonja,Lonja 5,-86,buena,0,False,0,342,0
+883936984bfffff,39.958724,-12.369307,Lonja,Lonja 5,-86,buena,0,False,0,692,0
+883936984dfffff,39.951805,-12.386818,Lonja,Lonja 5,-84,buena,0,False,0,684,1
+8839369869fffff,39.936443,-12.387626,Lonja,Lonja 4,-86,buena,0,False,0,379,0
+8839369a01fffff,39.990463,-12.390499,Lonja,Lonja 5,-101,mala,0,False,0,273,1
+8839369a03fffff,39.989955,-12.37909,Auditorio,Auditorio 3,-97,media,0,False,0,324,1
+8839369a05fffff,39.983036,-12.396607,Lonja,Lonja 5,-113,mala,0,False,0,945,0
+8839369a07fffff,39.982529,-12.385199,Lonja,Lonja 5,-103,mala,0,False,0,355,1
+8839369a09fffff,39.998397,-12.3958,Auditorio,Auditorio 3,-92,media,0,False,0,1174,1
+8839369a0bfffff,39.997889,-12.384389,Auditorio,Auditorio 3,-94,media,0,False,0,167,1
+8839369a0dfffff,39.99097,-12.401909,Lonja,Lonja 5,-105,mala,0,False,0,519,0
+8839369a11fffff,39.99687,-12.36157,Auditorio,Auditorio 3,-88,buena,0,False,0,295,0
+8839369a13fffff,39.996359,-12.350162,Auditorio,Auditorio 3,-87,buena,0,False,0,198,1
+8839369a15fffff,39.989445,-12.367681,Auditorio,Auditorio 3,-91,buena,0,False,0,223,0
+8839369a17fffff,39.988935,-12.356274,Auditorio,Auditorio 3,-86,buena,0,False,0,306,0
+8839369a19fffff,40.004805,-12.366868,Auditorio,Auditorio 3,-89,buena,0,False,0,552,1
+8839369a1bfffff,40.004294,-12.355458,Auditorio,Auditorio 3,-90,buena,0,False,0,207,0
+8839369a1dfffff,39.99738,-12.372979,Auditorio,Auditorio 3,-93,media,0,False,0,369,2
+8839369a21fffff,39.967674,-12.397415,Lonja,Lonja 5,-98,media,0,False,0,398,0
+8839369a23fffff,39.967167,-12.386008,Lonja,Lonja 5,-95,media,0,False,0,746,0
+8839369a25fffff,39.960246,-12.403521,Lonja,Lonja 5,-92,media,0,False,0,745,4
+8839369a27fffff,39.95974,-12.392115,Lonja,Lonja 5,-92,media,0,False,0,472,0
+8839369a29fffff,39.975609,-12.402715,Lonja,Lonja 5,-111,mala,0,False,0,830,1
+8839369a2bfffff,39.975102,-12.391307,Lonja,Lonja 5,-109,mala,0,False,0,520,1
+8839369a2dfffff,39.96818,-12.408821,Lonja,Lonja 5,-98,media,0,False,0,607,0
+8839369a31fffff,39.974085,-12.368494,Lonja,Lonja 5,-91,buena,0,False,0,470,0
+8839369a33fffff,39.973575,-12.357089,Lonja,Lonja 5,-89,buena,0,False,0,264,1
+8839369a35fffff,39.966659,-12.374603,Lonja,Lonja 5,-91,buena,0,False,0,216,0
+8839369a37fffff,39.96615,-12.363199,Lonja,Lonja 5,-88,buena,0,True,0,252,0
+8839369a39fffff,39.98202,-12.373791,Lonja,Lonja 5,-98,media,0,False,0,767,0
+8839369a3bfffff,39.981511,-12.362385,Lonja,Lonja 5,-87,buena,0,False,0,163,0
+8839369a3dfffff,39.974594,-12.3799,Lonja,Lonja 5,-94,media,0,False,0,801,0
+8839369a41fffff,40.006838,-12.412515,Auditorio,Auditorio 3,-84,buena,0,False,0,973,1
+8839369a43fffff,40.006331,-12.401102,Auditorio,Auditorio 3,-89,buena,0,False,0,2045,3
+8839369a45fffff,39.99941,-12.418623,Auditorio,Auditorio 3,-87,buena,0,False,0,1064,2
+8839369a47fffff,39.998904,-12.407211,Auditorio,Auditorio 3,-92,media,0,False,0,436,0
+8839369a49fffff,40.014771,-12.41782,Auditorio,Auditorio 3,-84,buena,0,False,0,728,0
+8839369a4bfffff,40.014265,-12.406405,Auditorio,Auditorio 3,-88,buena,0,False,0,1190,2
+8839369a4dfffff,40.007343,-12.423929,Auditorio,Auditorio 3,-81,buena,0,False,0,1786,2
+8839369a51fffff,40.013249,-12.383579,Auditorio,Auditorio 3,-87,buena,0,False,0,678,1
+8839369a53fffff,40.012739,-12.372167,Auditorio,Auditorio 3,-88,buena,0,False,0,1201,0
+8839369a55fffff,40.005823,-12.38969,Auditorio,Auditorio 3,-91,buena,0,False,0,613,1
+8839369a57fffff,40.005315,-12.378278,Auditorio,Auditorio 3,-90,buena,0,False,0,295,0
+8839369a59fffff,40.021183,-12.388881,Auditorio,Auditorio 3,-87,buena,0,False,0,399,0
+8839369a5bfffff,40.020674,-12.377467,Auditorio,Auditorio 3,-86,buena,0,False,0,392,1
+8839369a5dfffff,40.013757,-12.394992,Auditorio,Auditorio 3,-86,buena,0,False,0,821,2
+8839369a61fffff,39.984048,-12.419427,Lonja,Lonja 5,-94,media,0,False,0,610,1
+8839369a63fffff,39.983543,-12.408016,Lonja,Lonja 5,-106,mala,0,False,0,528,1
+8839369a65fffff,39.976619,-12.425533,Lonja,Lonja 5,-89,buena,0,False,0,1376,2
+8839369a67fffff,39.976114,-12.414123,Lonja,Lonja 5,-104,mala,0,False,0,661,3
+8839369a69fffff,39.991981,-12.424731,Lonja,Lonja 1,-87,buena,0,False,0,1873,3
+8839369a6bfffff,39.991476,-12.413319,Lonja,Lonja 5,-95,media,0,True,0,1407,6
+8839369a6dfffff,39.984552,-12.430837,Lonja,Lonja 1,-87,buena,0,False,0,1584,2
+8839369aedfffff,39.981,-12.350979,Lonja,Lonja 5,-85,buena,0,False,0,926,2
+8839369b01fffff,39.93846,-12.433238,Lonja,Lonja 3,-85,buena,0,False,0,1131,3
+8839369b03fffff,39.937957,-12.421834,Lonja,Lonja 4,-85,buena,0,False,0,369,1
+8839369b05fffff,39.931028,-12.43934,Lonja,Lonja 3,-87,buena,0,False,0,435,0
+8839369b07fffff,39.930526,-12.427936,Lonja,Lonja 4,-87,buena,0,False,0,217,0
+8839369b09fffff,39.946393,-12.438541,Lonja,Lonja 3,-84,buena,0,False,0,710,1
+8839369b0bfffff,39.945891,-12.427135,Lonja,Lonja 3,-89,buena,0,False,0,727,0
+8839369b0dfffff,39.938961,-12.444643,Lonja,Lonja 3,-84,buena,0,False,0,772,1
+8839369b11fffff,39.944883,-12.404326,Lonja,Lonja 4,-88,buena,0,False,0,783,0
+8839369b13fffff,39.944377,-12.392923,Lonja,Lonja 5,-84,buena,0,False,0,290,0
+8839369b15fffff,39.937453,-12.410431,Lonja,Lonja 4,-90,buena,0,False,0,470,2
+8839369b17fffff,39.936949,-12.399028,Lonja,Lonja 4,-88,buena,0,False,0,735,1
+8839369b19fffff,39.952817,-12.409626,Lonja,Lonja 5,-87,buena,0,False,0,525,1
+8839369b1bfffff,39.952312,-12.398221,Lonja,Lonja 5,-85,buena,0,False,0,420,1
+8839369b1dfffff,39.945387,-12.41573,Lonja,Lonja 4,-83,buena,0,False,0,806,1
+8839369b21fffff,39.915662,-12.440138,Lonja,Lonja 3,-90,buena,0,False,0,940,4
+8839369b23fffff,39.91516,-12.428737,Lonja,Lonja 4,-84,buena,0,False,0,159,0
+8839369b25fffff,39.908228,-12.446237,Lonja,Lonja 3,-90,buena,0,False,0,445,0
+8839369b29fffff,39.923595,-12.44544,Lonja,Lonja 3,-89,buena,0,False,0,288,0
+8839369b2bfffff,39.923094,-12.434037,Lonja,Lonja 3,-87,buena,0,False,0,257,0
+8839369b2dfffff,39.916162,-12.45154,Lonja,Lonja 2,-89,buena,0,False,0,223,0
+8839369b31fffff,39.922089,-12.411235,Lonja,Lonja 4,-85,buena,0,False,0,489,3
+8839369b39fffff,39.930023,-12.416534,Lonja,Lonja 4,-85,buena,0,False,0,286,0
+8839369b3bfffff,39.929519,-12.405132,Lonja,Lonja 4,-87,buena,0,False,0,349,0
+8839369b3dfffff,39.922592,-12.422636,Lonja,Lonja 4,-91,buena,0,False,0,522,0
+8839369b41fffff,39.954828,-12.455253,Lonja,Lonja 3,-90,buena,0,False,0,807,1
+8839369b43fffff,39.954327,-12.443845,Lonja,Lonja 3,-85,buena,0,False,0,1983,3
+8839369b45fffff,39.947395,-12.461355,Lonja,Lonja 2,-84,buena,0,False,0,2449,8
+8839369b47fffff,39.946895,-12.449947,Lonja,Lonja 3,-85,buena,0,False,0,1548,3
+8839369b49fffff,39.96276,-12.46056,Lonja,Lonja 1,-92,media,1,False,0,1883,3
+8839369b4bfffff,39.96226,-12.449151,Lonja,Lonja 3,-91,buena,0,False,0,1392,6
+8839369b4dfffff,39.955328,-12.466662,Lonja,Lonja 2,-88,buena,0,False,0,1634,5
+8839369b51fffff,39.961255,-12.426334,Lonja,Lonja 3,-87,buena,0,False,0,888,0
+8839369b53fffff,39.960751,-12.414927,Lonja,Lonja 5,-88,buena,0,False,0,678,2
+8839369b55fffff,39.953825,-12.432438,Lonja,Lonja 3,-86,buena,0,False,0,1025,1
+8839369b57fffff,39.953321,-12.421032,Lonja,Lonja 4,-87,buena,0,False,0,904,2
+8839369b59fffff,39.969189,-12.431638,Lonja,Lonja 3,-91,buena,0,False,0,1264,2
+8839369b5bfffff,39.968685,-12.420229,Lonja,Lonja 5,-91,buena,0,False,0,947,1
+8839369b5dfffff,39.961758,-12.437742,Lonja,Lonja 3,-88,buena,0,False,0,713,0
+8839369b61fffff,39.932028,-12.462149,Lonja,Lonja 2,-87,buena,1,False,0,2639,14
+8839369b63fffff,39.931529,-12.450744,Lonja,Lonja 3,-88,buena,0,False,0,258,1
+8839369b65fffff,39.924594,-12.468248,Lonja,Lonja 2,-88,buena,0,False,0,808,2
+8839369b67fffff,39.924095,-12.456844,Lonja,Lonja 2,-88,buena,0,False,0,788,3
+8839369b69fffff,39.939961,-12.467455,Lonja,Lonja 2,-88,buena,0,False,0,350,1
+8839369b6bfffff,39.939462,-12.456049,Lonja,Lonja 3,-91,buena,0,False,0,1540,2
+8839369b6dfffff,39.932527,-12.473555,Lonja,Lonja 2,-85,buena,0,False,0,520,0
