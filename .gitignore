@@ -1,2 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
+# La telemetría completa se descarga de la release al ejecutar av00
+datos/avanzado/telemetria/completo/
+cuadernos/avanzado/salidas/

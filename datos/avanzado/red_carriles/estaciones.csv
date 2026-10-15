@@ -1,0 +1,41 @@
+estacion_id,base_id,nombre,zona,nodo_id,lat,lon
+E-01,B-01,Intermodal 1,Intermodal,N123,40.019991,-12.477368
+E-02,B-02,Intermodal 2,Intermodal,N114,40.029623,-12.48767
+E-03,B-03,Intermodal 3,Intermodal,N096,40.01291,-12.499919
+E-04,B-04,Intermodal 4,Intermodal,N109,40.013526,-12.489686
+E-05,B-05,Intermodal 5,Intermodal,N127,40.030501,-12.478287
+E-06,B-06,Intermodal 6,Intermodal,N113,40.018943,-12.489133
+E-07,B-07,Intermodal 7,Intermodal,N116,40.009149,-12.487012
+E-08,B-08,Ayuntamiento 1,Ayuntamiento,N055,40.015365,-12.532686
+E-09,B-09,Ayuntamiento 2,Ayuntamiento,N060,40.026208,-12.531048
+E-10,B-10,Ayuntamiento 3,Ayuntamiento,N072,40.015683,-12.520261
+E-11,B-11,Ayuntamiento 4,Ayuntamiento,N056,40.032381,-12.532574
+E-12,B-12,Ayuntamiento 5,Ayuntamiento,N076,40.021065,-12.521291
+E-13,B-13,Ayuntamiento 6,Ayuntamiento,N052,40.020159,-12.532889
+E-14,B-14,Paseo del Río 1,Paseo del Río,N115,39.999599,-12.487237
+E-15,B-15,Paseo del Río 2,Paseo del Río,N053,39.989708,-12.533726
+E-16,B-16,Paseo del Río 3,Paseo del Río,N083,39.99364,-12.509341
+E-17,B-17,Paseo del Río 4,Paseo del Río,N097,39.995562,-12.497064
+E-18,B-18,Paseo del Río 5,Paseo del Río,N124,40.000374,-12.476882
+E-19,B-19,Paseo del Río 6,Paseo del Río,N042,39.989798,-12.544047
+E-20,B-20,Auditorio 1,Auditorio,N154,40.026934,-12.456722
+E-21,B-21,Auditorio 2,Auditorio,N140,40.040543,-12.467628
+E-22,B-22,Auditorio 3,Auditorio,N172,40.037168,-12.442477
+E-23,B-23,Auditorio 4,Auditorio,N168,40.01693,-12.443343
+E-24,B-24,Auditorio 5,Auditorio,N179,40.025261,-12.430607
+E-25,B-25,Polideportivo 1,Polideportivo,N019,40.039662,-12.567719
+E-26,B-26,Polideportivo 2,Polideportivo,N025,40.026607,-12.55476
+E-27,B-27,Polideportivo 3,Polideportivo,N007,40.014971,-12.578139
+E-28,B-28,Polideportivo 4,Polideportivo,N011,40.032941,-12.578865
+E-29,B-29,Lonja 1,Lonja,N107,39.986479,-12.494695
+E-30,B-30,Lonja 2,Lonja,N151,39.992302,-12.45869
+E-31,B-31,Lonja 3,Lonja,N120,39.971619,-12.482876
+E-32,B-32,Lonja 4,Lonja,N133,39.965719,-12.471421
+E-33,B-33,Lonja 5,Lonja,N135,39.974042,-12.47034
+E-34,B-34,Biblioteca 1,Biblioteca,N092,39.96973,-12.503098
+E-35,B-35,Biblioteca 2,Biblioteca,N079,39.983851,-12.518482
+E-36,B-36,Biblioteca 3,Biblioteca,N091,39.962166,-12.507502
+E-37,B-37,Biblioteca 4,Biblioteca,N094,39.985675,-12.504107
+E-38,B-38,Jardín Botánico 1,Jardín Botánico,N048,39.955205,-12.538298
+E-39,B-39,Jardín Botánico 2,Jardín Botánico,N036,39.971249,-12.54936
+E-40,B-40,Jardín Botánico 3,Jardín Botánico,N037,39.980173,-12.55084

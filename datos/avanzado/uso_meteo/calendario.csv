@@ -1,0 +1,1097 @@
+fecha,dia_semana,festivo_ciudad,festivo_nombre,laborable,vacaciones_escolares,gran_evento,ola_calor,tormenta,tarifa,horas_del_dia
+2023-10-01,domingo,False,,False,False,,False,False,anterior,24
+2023-10-02,lunes,False,,True,False,,False,False,anterior,24
+2023-10-03,martes,False,,True,False,,False,False,anterior,24
+2023-10-04,miércoles,False,,True,False,,False,False,anterior,24
+2023-10-05,jueves,False,,True,False,,False,False,anterior,24
+2023-10-06,viernes,False,,True,False,,False,False,anterior,24
+2023-10-07,sábado,False,,False,False,,False,False,anterior,24
+2023-10-08,domingo,False,,False,False,,False,False,anterior,24
+2023-10-09,lunes,False,,True,False,,False,False,anterior,24
+2023-10-10,martes,False,,True,False,,False,False,anterior,24
+2023-10-11,miércoles,False,,True,False,,False,False,anterior,24
+2023-10-12,jueves,True,Fiesta Nacional,False,False,,False,False,anterior,24
+2023-10-13,viernes,False,,True,False,,False,False,anterior,24
+2023-10-14,sábado,False,,False,False,,False,False,anterior,24
+2023-10-15,domingo,False,,False,False,,False,False,anterior,24
+2023-10-16,lunes,False,,True,False,,False,False,anterior,24
+2023-10-17,martes,False,,True,False,,False,False,anterior,24
+2023-10-18,miércoles,False,,True,False,,False,False,anterior,24
+2023-10-19,jueves,False,,True,False,,False,True,anterior,24
+2023-10-20,viernes,False,,True,False,,False,False,anterior,24
+2023-10-21,sábado,False,,False,False,,False,False,anterior,24
+2023-10-22,domingo,False,,False,False,,False,False,anterior,24
+2023-10-23,lunes,False,,True,False,,False,False,anterior,24
+2023-10-24,martes,False,,True,False,,False,False,anterior,24
+2023-10-25,miércoles,False,,True,False,,False,False,anterior,24
+2023-10-26,jueves,False,,True,False,,False,False,anterior,24
+2023-10-27,viernes,False,,True,False,,False,False,anterior,24
+2023-10-28,sábado,False,,False,False,,False,False,anterior,24
+2023-10-29,domingo,False,,False,False,,False,False,anterior,25
+2023-10-30,lunes,False,,True,False,,False,False,anterior,24
+2023-10-31,martes,False,,True,False,,False,False,anterior,24
+2023-11-01,miércoles,True,Todos los Santos,False,False,,False,False,anterior,24
+2023-11-02,jueves,False,,True,False,,False,True,anterior,24
+2023-11-03,viernes,False,,True,False,,False,True,anterior,24
+2023-11-04,sábado,False,,False,False,,False,False,anterior,24
+2023-11-05,domingo,False,,False,False,,False,False,anterior,24
+2023-11-06,lunes,False,,True,False,,False,False,anterior,24
+2023-11-07,martes,False,,True,False,,False,False,anterior,24
+2023-11-08,miércoles,False,,True,False,,False,False,anterior,24
+2023-11-09,jueves,False,,True,False,,False,False,anterior,24
+2023-11-10,viernes,False,,True,False,,False,False,anterior,24
+2023-11-11,sábado,False,,False,False,,False,False,anterior,24
+2023-11-12,domingo,False,,False,False,,False,False,anterior,24
+2023-11-13,lunes,False,,True,False,,False,False,anterior,24
+2023-11-14,martes,False,,True,False,,False,False,anterior,24
+2023-11-15,miércoles,False,,True,False,,False,False,anterior,24
+2023-11-16,jueves,False,,True,False,,False,False,anterior,24
+2023-11-17,viernes,False,,True,False,,False,False,anterior,24
+2023-11-18,sábado,False,,False,False,,False,False,anterior,24
+2023-11-19,domingo,False,,False,False,,False,False,anterior,24
+2023-11-20,lunes,False,,True,False,,False,False,anterior,24
+2023-11-21,martes,False,,True,False,,False,False,anterior,24
+2023-11-22,miércoles,False,,True,False,,False,False,anterior,24
+2023-11-23,jueves,False,,True,False,,False,False,anterior,24
+2023-11-24,viernes,False,,True,False,,False,False,anterior,24
+2023-11-25,sábado,False,,False,False,,False,False,anterior,24
+2023-11-26,domingo,False,,False,False,,False,False,anterior,24
+2023-11-27,lunes,False,,True,False,,False,False,anterior,24
+2023-11-28,martes,False,,True,False,,False,False,anterior,24
+2023-11-29,miércoles,False,,True,False,,False,False,anterior,24
+2023-11-30,jueves,False,,True,False,,False,False,anterior,24
+2023-12-01,viernes,False,,True,False,,False,False,anterior,24
+2023-12-02,sábado,False,,False,False,,False,False,anterior,24
+2023-12-03,domingo,False,,False,False,,False,False,anterior,24
+2023-12-04,lunes,False,,True,False,,False,False,anterior,24
+2023-12-05,martes,False,,True,False,,False,False,anterior,24
+2023-12-06,miércoles,True,Constitución,False,False,,False,False,anterior,24
+2023-12-07,jueves,False,,True,False,,False,False,anterior,24
+2023-12-08,viernes,True,Inmaculada,False,False,,False,False,anterior,24
+2023-12-09,sábado,False,,False,False,,False,False,anterior,24
+2023-12-10,domingo,False,,False,False,,False,False,anterior,24
+2023-12-11,lunes,False,,True,False,,False,False,anterior,24
+2023-12-12,martes,False,,True,False,,False,False,anterior,24
+2023-12-13,miércoles,False,,True,False,,False,False,anterior,24
+2023-12-14,jueves,False,,True,False,,False,False,anterior,24
+2023-12-15,viernes,False,,True,False,,False,False,anterior,24
+2023-12-16,sábado,False,,False,False,,False,False,anterior,24
+2023-12-17,domingo,False,,False,False,,False,False,anterior,24
+2023-12-18,lunes,False,,True,False,,False,False,anterior,24
+2023-12-19,martes,False,,True,False,,False,False,anterior,24
+2023-12-20,miércoles,False,,True,False,,False,False,anterior,24
+2023-12-21,jueves,False,,True,False,,False,False,anterior,24
+2023-12-22,viernes,False,,True,False,,False,False,anterior,24
+2023-12-23,sábado,False,,False,True,,False,False,anterior,24
+2023-12-24,domingo,False,,False,True,,False,False,anterior,24
+2023-12-25,lunes,True,Navidad,False,True,,False,False,anterior,24
+2023-12-26,martes,False,,True,True,,False,False,anterior,24
+2023-12-27,miércoles,False,,True,True,,False,False,anterior,24
+2023-12-28,jueves,False,,True,True,,False,False,anterior,24
+2023-12-29,viernes,False,,True,True,,False,False,anterior,24
+2023-12-30,sábado,False,,False,True,,False,False,anterior,24
+2023-12-31,domingo,False,,False,True,Carrera de San Silvestre,False,False,anterior,24
+2024-01-01,lunes,True,Año Nuevo,False,True,,False,False,anterior,24
+2024-01-02,martes,False,,True,True,,False,False,anterior,24
+2024-01-03,miércoles,False,,True,True,,False,False,anterior,24
+2024-01-04,jueves,False,,True,True,,False,False,anterior,24
+2024-01-05,viernes,False,,True,True,,False,False,anterior,24
+2024-01-06,sábado,True,Reyes,False,True,,False,False,anterior,24
+2024-01-07,domingo,False,,False,True,,False,False,anterior,24
+2024-01-08,lunes,False,,True,False,,False,False,anterior,24
+2024-01-09,martes,False,,True,False,,False,False,anterior,24
+2024-01-10,miércoles,False,,True,False,,False,False,anterior,24
+2024-01-11,jueves,False,,True,False,,False,False,anterior,24
+2024-01-12,viernes,False,,True,False,,False,False,anterior,24
+2024-01-13,sábado,False,,False,False,,False,False,anterior,24
+2024-01-14,domingo,False,,False,False,,False,False,anterior,24
+2024-01-15,lunes,False,,True,False,,False,False,anterior,24
+2024-01-16,martes,False,,True,False,,False,False,anterior,24
+2024-01-17,miércoles,False,,True,False,,False,False,anterior,24
+2024-01-18,jueves,False,,True,False,,False,False,anterior,24
+2024-01-19,viernes,False,,True,False,,False,False,anterior,24
+2024-01-20,sábado,False,,False,False,,False,False,anterior,24
+2024-01-21,domingo,False,,False,False,,False,False,anterior,24
+2024-01-22,lunes,False,,True,False,,False,False,anterior,24
+2024-01-23,martes,False,,True,False,,False,False,anterior,24
+2024-01-24,miércoles,False,,True,False,,False,False,anterior,24
+2024-01-25,jueves,False,,True,False,,False,False,anterior,24
+2024-01-26,viernes,False,,True,False,,False,False,anterior,24
+2024-01-27,sábado,False,,False,False,,False,False,anterior,24
+2024-01-28,domingo,False,,False,False,,False,False,anterior,24
+2024-01-29,lunes,False,,True,False,,False,False,anterior,24
+2024-01-30,martes,False,,True,False,,False,False,anterior,24
+2024-01-31,miércoles,False,,True,False,,False,False,anterior,24
+2024-02-01,jueves,False,,True,False,,False,False,anterior,24
+2024-02-02,viernes,False,,True,False,,False,False,anterior,24
+2024-02-03,sábado,False,,False,False,,False,False,anterior,24
+2024-02-04,domingo,False,,False,False,,False,False,anterior,24
+2024-02-05,lunes,False,,True,False,,False,False,anterior,24
+2024-02-06,martes,False,,True,False,,False,False,anterior,24
+2024-02-07,miércoles,False,,True,False,,False,False,anterior,24
+2024-02-08,jueves,False,,True,False,,False,False,anterior,24
+2024-02-09,viernes,False,,True,False,,False,False,anterior,24
+2024-02-10,sábado,False,,False,False,,False,False,anterior,24
+2024-02-11,domingo,False,,False,False,,False,False,anterior,24
+2024-02-12,lunes,False,,True,False,,False,False,anterior,24
+2024-02-13,martes,False,,True,False,,False,False,anterior,24
+2024-02-14,miércoles,False,,True,False,,False,False,anterior,24
+2024-02-15,jueves,False,,True,False,,False,False,anterior,24
+2024-02-16,viernes,False,,True,False,,False,False,anterior,24
+2024-02-17,sábado,False,,False,False,,False,False,anterior,24
+2024-02-18,domingo,False,,False,False,,False,False,anterior,24
+2024-02-19,lunes,False,,True,False,,False,False,anterior,24
+2024-02-20,martes,False,,True,False,,False,False,anterior,24
+2024-02-21,miércoles,False,,True,False,,False,False,anterior,24
+2024-02-22,jueves,False,,True,False,,False,False,anterior,24
+2024-02-23,viernes,False,,True,False,,False,False,anterior,24
+2024-02-24,sábado,False,,False,False,,False,False,anterior,24
+2024-02-25,domingo,False,,False,False,,False,False,anterior,24
+2024-02-26,lunes,False,,True,False,,False,False,anterior,24
+2024-02-27,martes,False,,True,False,,False,False,anterior,24
+2024-02-28,miércoles,False,,True,False,,False,False,anterior,24
+2024-02-29,jueves,False,,True,False,,False,False,anterior,24
+2024-03-01,viernes,False,,True,False,,False,False,anterior,24
+2024-03-02,sábado,False,,False,False,,False,False,anterior,24
+2024-03-03,domingo,False,,False,False,,False,False,anterior,24
+2024-03-04,lunes,False,,True,False,,False,False,anterior,24
+2024-03-05,martes,False,,True,False,,False,False,anterior,24
+2024-03-06,miércoles,False,,True,False,,False,False,anterior,24
+2024-03-07,jueves,False,,True,False,,False,False,anterior,24
+2024-03-08,viernes,False,,True,False,,False,False,anterior,24
+2024-03-09,sábado,False,,False,False,,False,False,anterior,24
+2024-03-10,domingo,False,,False,False,Maratón de la ciudad,False,False,anterior,24
+2024-03-11,lunes,False,,True,False,,False,False,anterior,24
+2024-03-12,martes,False,,True,False,,False,False,anterior,24
+2024-03-13,miércoles,False,,True,False,,False,False,anterior,24
+2024-03-14,jueves,False,,True,False,,False,False,anterior,24
+2024-03-15,viernes,False,,True,False,,False,False,anterior,24
+2024-03-16,sábado,False,,False,False,,False,False,anterior,24
+2024-03-17,domingo,False,,False,False,,False,False,anterior,24
+2024-03-18,lunes,False,,True,False,,False,False,anterior,24
+2024-03-19,martes,False,,True,False,,False,False,anterior,24
+2024-03-20,miércoles,False,,True,False,,False,False,anterior,24
+2024-03-21,jueves,False,,True,False,,False,False,anterior,24
+2024-03-22,viernes,False,,True,False,,False,False,anterior,24
+2024-03-23,sábado,False,,False,False,,False,False,anterior,24
+2024-03-24,domingo,False,,False,False,,False,False,anterior,24
+2024-03-25,lunes,False,,True,True,,False,False,anterior,24
+2024-03-26,martes,False,,True,True,,False,False,anterior,24
+2024-03-27,miércoles,False,,True,True,,False,False,anterior,24
+2024-03-28,jueves,True,Jueves Santo,False,True,,False,False,anterior,24
+2024-03-29,viernes,True,Viernes Santo,False,True,,False,False,anterior,24
+2024-03-30,sábado,False,,False,True,,False,False,anterior,24
+2024-03-31,domingo,False,,False,True,,False,False,anterior,23
+2024-04-01,lunes,False,,True,True,,False,False,anterior,24
+2024-04-02,martes,False,,True,False,,False,False,anterior,24
+2024-04-03,miércoles,False,,True,False,,False,False,anterior,24
+2024-04-04,jueves,False,,True,False,,False,False,anterior,24
+2024-04-05,viernes,False,,True,False,,False,False,anterior,24
+2024-04-06,sábado,False,,False,False,,False,False,anterior,24
+2024-04-07,domingo,False,,False,False,,False,False,anterior,24
+2024-04-08,lunes,False,,True,False,,False,False,anterior,24
+2024-04-09,martes,False,,True,False,,False,False,anterior,24
+2024-04-10,miércoles,False,,True,False,,False,False,anterior,24
+2024-04-11,jueves,False,,True,False,,False,False,anterior,24
+2024-04-12,viernes,False,,True,False,,False,False,anterior,24
+2024-04-13,sábado,False,,False,False,,False,False,anterior,24
+2024-04-14,domingo,False,,False,False,,False,False,anterior,24
+2024-04-15,lunes,False,,True,False,,False,False,anterior,24
+2024-04-16,martes,False,,True,False,,False,False,anterior,24
+2024-04-17,miércoles,False,,True,False,,False,False,anterior,24
+2024-04-18,jueves,False,,True,False,,False,False,anterior,24
+2024-04-19,viernes,False,,True,False,,False,False,anterior,24
+2024-04-20,sábado,False,,False,False,,False,False,anterior,24
+2024-04-21,domingo,False,,False,False,,False,False,anterior,24
+2024-04-22,lunes,False,,True,False,,False,False,anterior,24
+2024-04-23,martes,False,,True,False,,False,False,anterior,24
+2024-04-24,miércoles,False,,True,False,,False,False,anterior,24
+2024-04-25,jueves,False,,True,False,,False,False,anterior,24
+2024-04-26,viernes,False,,True,False,,False,False,anterior,24
+2024-04-27,sábado,False,,False,False,,False,False,anterior,24
+2024-04-28,domingo,False,,False,False,,False,False,anterior,24
+2024-04-29,lunes,False,,True,False,,False,False,anterior,24
+2024-04-30,martes,False,,True,False,,False,False,anterior,24
+2024-05-01,miércoles,True,Fiesta del Trabajo,False,False,,False,False,anterior,24
+2024-05-02,jueves,False,,True,False,,False,False,anterior,24
+2024-05-03,viernes,False,,True,False,,False,False,anterior,24
+2024-05-04,sábado,False,,False,False,,False,False,anterior,24
+2024-05-05,domingo,False,,False,False,,False,False,anterior,24
+2024-05-06,lunes,False,,True,False,,False,False,anterior,24
+2024-05-07,martes,False,,True,False,,False,False,anterior,24
+2024-05-08,miércoles,False,,True,False,,False,False,anterior,24
+2024-05-09,jueves,False,,True,False,,False,False,anterior,24
+2024-05-10,viernes,False,,True,False,,False,False,anterior,24
+2024-05-11,sábado,False,,False,False,,False,False,anterior,24
+2024-05-12,domingo,False,,False,False,,False,False,anterior,24
+2024-05-13,lunes,False,,True,False,,False,False,anterior,24
+2024-05-14,martes,False,,True,False,,False,False,anterior,24
+2024-05-15,miércoles,False,,True,False,,False,False,anterior,24
+2024-05-16,jueves,False,,True,False,,False,False,anterior,24
+2024-05-17,viernes,False,,True,False,,False,False,anterior,24
+2024-05-18,sábado,False,,False,False,Noche de los museos,False,False,anterior,24
+2024-05-19,domingo,False,,False,False,,False,False,anterior,24
+2024-05-20,lunes,False,,True,False,,False,False,anterior,24
+2024-05-21,martes,False,,True,False,,False,False,anterior,24
+2024-05-22,miércoles,False,,True,False,,False,False,anterior,24
+2024-05-23,jueves,False,,True,False,,False,False,anterior,24
+2024-05-24,viernes,False,,True,False,,False,False,anterior,24
+2024-05-25,sábado,False,,False,False,,False,False,anterior,24
+2024-05-26,domingo,False,,False,False,,False,False,anterior,24
+2024-05-27,lunes,False,,True,False,,False,False,anterior,24
+2024-05-28,martes,False,,True,False,,False,False,anterior,24
+2024-05-29,miércoles,False,,True,False,,False,False,anterior,24
+2024-05-30,jueves,False,,True,False,,False,False,anterior,24
+2024-05-31,viernes,False,,True,False,,False,False,anterior,24
+2024-06-01,sábado,False,,False,False,,False,False,anterior,24
+2024-06-02,domingo,False,,False,False,,False,False,anterior,24
+2024-06-03,lunes,False,,True,False,,False,False,anterior,24
+2024-06-04,martes,False,,True,False,,False,False,anterior,24
+2024-06-05,miércoles,False,,True,False,,False,False,anterior,24
+2024-06-06,jueves,False,,True,False,,False,False,anterior,24
+2024-06-07,viernes,False,,True,False,,False,False,anterior,24
+2024-06-08,sábado,False,,False,False,,False,False,anterior,24
+2024-06-09,domingo,False,,False,False,,False,False,anterior,24
+2024-06-10,lunes,False,,True,False,,False,False,anterior,24
+2024-06-11,martes,False,,True,False,,False,False,anterior,24
+2024-06-12,miércoles,False,,True,False,,False,False,anterior,24
+2024-06-13,jueves,False,,True,False,,False,False,anterior,24
+2024-06-14,viernes,False,,True,False,,False,False,anterior,24
+2024-06-15,sábado,False,,False,False,,False,False,anterior,24
+2024-06-16,domingo,False,,False,False,,False,False,anterior,24
+2024-06-17,lunes,False,,True,False,,False,False,anterior,24
+2024-06-18,martes,False,,True,False,,False,False,anterior,24
+2024-06-19,miércoles,False,,True,False,,False,False,anterior,24
+2024-06-20,jueves,False,,True,False,,False,False,anterior,24
+2024-06-21,viernes,False,,True,True,,False,False,anterior,24
+2024-06-22,sábado,False,,False,True,,False,False,anterior,24
+2024-06-23,domingo,False,,False,True,,False,False,anterior,24
+2024-06-24,lunes,True,Fiesta de la ciudad,False,True,,False,False,anterior,24
+2024-06-25,martes,False,,True,True,,False,False,anterior,24
+2024-06-26,miércoles,False,,True,True,,False,False,anterior,24
+2024-06-27,jueves,False,,True,True,,False,False,anterior,24
+2024-06-28,viernes,False,,True,True,,False,False,anterior,24
+2024-06-29,sábado,False,,False,True,Concierto en el Auditorio,False,False,anterior,24
+2024-06-30,domingo,False,,False,True,,False,False,anterior,24
+2024-07-01,lunes,False,,True,True,,False,False,anterior,24
+2024-07-02,martes,False,,True,True,,False,False,anterior,24
+2024-07-03,miércoles,False,,True,True,,False,False,anterior,24
+2024-07-04,jueves,False,,True,True,,False,False,anterior,24
+2024-07-05,viernes,False,,True,True,,False,False,anterior,24
+2024-07-06,sábado,False,,False,True,,False,False,anterior,24
+2024-07-07,domingo,False,,False,True,,False,False,anterior,24
+2024-07-08,lunes,False,,True,True,,False,False,anterior,24
+2024-07-09,martes,False,,True,True,,False,False,anterior,24
+2024-07-10,miércoles,False,,True,True,,False,False,anterior,24
+2024-07-11,jueves,False,,True,True,,False,False,anterior,24
+2024-07-12,viernes,False,,True,True,,False,False,anterior,24
+2024-07-13,sábado,False,,False,True,,False,False,anterior,24
+2024-07-14,domingo,False,,False,True,,False,False,anterior,24
+2024-07-15,lunes,False,,True,True,,False,False,anterior,24
+2024-07-16,martes,False,,True,True,,False,False,anterior,24
+2024-07-17,miércoles,False,,True,True,,False,False,anterior,24
+2024-07-18,jueves,False,,True,True,,False,False,anterior,24
+2024-07-19,viernes,False,,True,True,,False,False,anterior,24
+2024-07-20,sábado,False,,False,True,,False,False,anterior,24
+2024-07-21,domingo,False,,False,True,,False,False,anterior,24
+2024-07-22,lunes,False,,True,True,,False,False,anterior,24
+2024-07-23,martes,False,,True,True,,False,False,anterior,24
+2024-07-24,miércoles,False,,True,True,,False,False,anterior,24
+2024-07-25,jueves,False,,True,True,,False,False,anterior,24
+2024-07-26,viernes,False,,True,True,,False,False,anterior,24
+2024-07-27,sábado,False,,False,True,,False,False,anterior,24
+2024-07-28,domingo,False,,False,True,,False,False,anterior,24
+2024-07-29,lunes,False,,True,True,,False,False,anterior,24
+2024-07-30,martes,False,,True,True,,False,False,anterior,24
+2024-07-31,miércoles,False,,True,True,,False,False,anterior,24
+2024-08-01,jueves,False,,True,True,,False,False,anterior,24
+2024-08-02,viernes,False,,True,True,,False,False,anterior,24
+2024-08-03,sábado,False,,False,True,,False,False,anterior,24
+2024-08-04,domingo,False,,False,True,,False,False,anterior,24
+2024-08-05,lunes,False,,True,True,,False,False,anterior,24
+2024-08-06,martes,False,,True,True,,False,False,anterior,24
+2024-08-07,miércoles,False,,True,True,,False,False,anterior,24
+2024-08-08,jueves,False,,True,True,,False,False,anterior,24
+2024-08-09,viernes,False,,True,True,,False,False,anterior,24
+2024-08-10,sábado,False,,False,True,,False,False,anterior,24
+2024-08-11,domingo,False,,False,True,,False,False,anterior,24
+2024-08-12,lunes,False,,True,True,,False,False,anterior,24
+2024-08-13,martes,False,,True,True,,False,False,anterior,24
+2024-08-14,miércoles,False,,True,True,,False,False,anterior,24
+2024-08-15,jueves,True,Asunción,False,True,,False,False,anterior,24
+2024-08-16,viernes,False,,True,True,,False,False,anterior,24
+2024-08-17,sábado,False,,False,True,,False,False,anterior,24
+2024-08-18,domingo,False,,False,True,,False,False,anterior,24
+2024-08-19,lunes,False,,True,True,,False,False,anterior,24
+2024-08-20,martes,False,,True,True,,False,False,anterior,24
+2024-08-21,miércoles,False,,True,True,,False,False,anterior,24
+2024-08-22,jueves,False,,True,True,,False,False,anterior,24
+2024-08-23,viernes,False,,True,True,,False,False,anterior,24
+2024-08-24,sábado,False,,False,True,,False,False,anterior,24
+2024-08-25,domingo,False,,False,True,,False,False,anterior,24
+2024-08-26,lunes,False,,True,True,,False,False,anterior,24
+2024-08-27,martes,False,,True,True,,False,False,anterior,24
+2024-08-28,miércoles,False,,True,True,,False,False,anterior,24
+2024-08-29,jueves,False,,True,True,,False,False,anterior,24
+2024-08-30,viernes,False,,True,True,,False,False,anterior,24
+2024-08-31,sábado,False,,False,True,,False,False,anterior,24
+2024-09-01,domingo,False,,False,True,,False,False,anterior,24
+2024-09-02,lunes,False,,True,True,,False,False,anterior,24
+2024-09-03,martes,False,,True,True,,False,False,anterior,24
+2024-09-04,miércoles,False,,True,True,,False,False,anterior,24
+2024-09-05,jueves,False,,True,True,,False,False,anterior,24
+2024-09-06,viernes,False,,True,True,,False,False,anterior,24
+2024-09-07,sábado,False,,False,True,,False,False,anterior,24
+2024-09-08,domingo,False,,False,False,,False,False,anterior,24
+2024-09-09,lunes,False,,True,False,,False,False,anterior,24
+2024-09-10,martes,False,,True,False,,False,False,anterior,24
+2024-09-11,miércoles,False,,True,False,,False,False,anterior,24
+2024-09-12,jueves,False,,True,False,,False,False,anterior,24
+2024-09-13,viernes,False,,True,False,,False,False,anterior,24
+2024-09-14,sábado,False,,False,False,Feria de la Lonja,False,False,anterior,24
+2024-09-15,domingo,True,Fiestas mayores,False,False,,False,False,anterior,24
+2024-09-16,lunes,False,,True,False,,False,False,anterior,24
+2024-09-17,martes,False,,True,False,,False,False,anterior,24
+2024-09-18,miércoles,False,,True,False,,False,False,anterior,24
+2024-09-19,jueves,False,,True,False,,False,False,anterior,24
+2024-09-20,viernes,False,,True,False,,False,False,anterior,24
+2024-09-21,sábado,False,,False,False,,False,False,anterior,24
+2024-09-22,domingo,False,,False,False,,False,False,anterior,24
+2024-09-23,lunes,False,,True,False,,False,False,anterior,24
+2024-09-24,martes,False,,True,False,,False,False,anterior,24
+2024-09-25,miércoles,False,,True,False,,False,False,anterior,24
+2024-09-26,jueves,False,,True,False,,False,False,anterior,24
+2024-09-27,viernes,False,,True,False,,False,False,anterior,24
+2024-09-28,sábado,False,,False,False,,False,False,anterior,24
+2024-09-29,domingo,False,,False,False,,False,False,anterior,24
+2024-09-30,lunes,False,,True,False,,False,False,anterior,24
+2024-10-01,martes,False,,True,False,,False,False,anterior,24
+2024-10-02,miércoles,False,,True,False,,False,False,anterior,24
+2024-10-03,jueves,False,,True,False,,False,False,anterior,24
+2024-10-04,viernes,False,,True,False,,False,False,anterior,24
+2024-10-05,sábado,False,,False,False,,False,False,anterior,24
+2024-10-06,domingo,False,,False,False,,False,False,anterior,24
+2024-10-07,lunes,False,,True,False,,False,False,anterior,24
+2024-10-08,martes,False,,True,False,,False,False,anterior,24
+2024-10-09,miércoles,False,,True,False,,False,False,anterior,24
+2024-10-10,jueves,False,,True,False,,False,False,anterior,24
+2024-10-11,viernes,False,,True,False,,False,False,anterior,24
+2024-10-12,sábado,True,Fiesta Nacional,False,False,,False,False,anterior,24
+2024-10-13,domingo,False,,False,False,,False,False,anterior,24
+2024-10-14,lunes,False,,True,False,,False,False,anterior,24
+2024-10-15,martes,False,,True,False,,False,False,anterior,24
+2024-10-16,miércoles,False,,True,False,,False,False,anterior,24
+2024-10-17,jueves,False,,True,False,,False,False,anterior,24
+2024-10-18,viernes,False,,True,False,,False,False,anterior,24
+2024-10-19,sábado,False,,False,False,,False,False,anterior,24
+2024-10-20,domingo,False,,False,False,,False,False,anterior,24
+2024-10-21,lunes,False,,True,False,,False,False,anterior,24
+2024-10-22,martes,False,,True,False,,False,False,anterior,24
+2024-10-23,miércoles,False,,True,False,,False,False,anterior,24
+2024-10-24,jueves,False,,True,False,,False,False,anterior,24
+2024-10-25,viernes,False,,True,False,,False,False,anterior,24
+2024-10-26,sábado,False,,False,False,,False,False,anterior,24
+2024-10-27,domingo,False,,False,False,,False,False,anterior,25
+2024-10-28,lunes,False,,True,False,,False,False,anterior,24
+2024-10-29,martes,False,,True,False,,False,True,anterior,24
+2024-10-30,miércoles,False,,True,False,,False,True,anterior,24
+2024-10-31,jueves,False,,True,False,,False,False,anterior,24
+2024-11-01,viernes,True,Todos los Santos,False,False,,False,False,anterior,24
+2024-11-02,sábado,False,,False,False,,False,False,anterior,24
+2024-11-03,domingo,False,,False,False,,False,False,anterior,24
+2024-11-04,lunes,False,,True,False,,False,False,anterior,24
+2024-11-05,martes,False,,True,False,,False,False,anterior,24
+2024-11-06,miércoles,False,,True,False,,False,False,anterior,24
+2024-11-07,jueves,False,,True,False,,False,False,anterior,24
+2024-11-08,viernes,False,,True,False,,False,False,anterior,24
+2024-11-09,sábado,False,,False,False,,False,False,anterior,24
+2024-11-10,domingo,False,,False,False,,False,False,anterior,24
+2024-11-11,lunes,False,,True,False,,False,False,anterior,24
+2024-11-12,martes,False,,True,False,,False,False,anterior,24
+2024-11-13,miércoles,False,,True,False,,False,True,anterior,24
+2024-11-14,jueves,False,,True,False,,False,False,anterior,24
+2024-11-15,viernes,False,,True,False,,False,False,anterior,24
+2024-11-16,sábado,False,,False,False,,False,False,anterior,24
+2024-11-17,domingo,False,,False,False,,False,False,anterior,24
+2024-11-18,lunes,False,,True,False,,False,False,anterior,24
+2024-11-19,martes,False,,True,False,,False,False,anterior,24
+2024-11-20,miércoles,False,,True,False,,False,False,anterior,24
+2024-11-21,jueves,False,,True,False,,False,False,anterior,24
+2024-11-22,viernes,False,,True,False,,False,False,anterior,24
+2024-11-23,sábado,False,,False,False,,False,False,anterior,24
+2024-11-24,domingo,False,,False,False,,False,False,anterior,24
+2024-11-25,lunes,False,,True,False,,False,False,anterior,24
+2024-11-26,martes,False,,True,False,,False,False,anterior,24
+2024-11-27,miércoles,False,,True,False,,False,False,anterior,24
+2024-11-28,jueves,False,,True,False,,False,False,anterior,24
+2024-11-29,viernes,False,,True,False,,False,False,anterior,24
+2024-11-30,sábado,False,,False,False,,False,False,anterior,24
+2024-12-01,domingo,False,,False,False,,False,False,anterior,24
+2024-12-02,lunes,False,,True,False,,False,False,anterior,24
+2024-12-03,martes,False,,True,False,,False,False,anterior,24
+2024-12-04,miércoles,False,,True,False,,False,False,anterior,24
+2024-12-05,jueves,False,,True,False,,False,False,anterior,24
+2024-12-06,viernes,True,Constitución,False,False,,False,False,anterior,24
+2024-12-07,sábado,False,,False,False,,False,False,anterior,24
+2024-12-08,domingo,True,Inmaculada,False,False,,False,False,anterior,24
+2024-12-09,lunes,False,,True,False,,False,False,anterior,24
+2024-12-10,martes,False,,True,False,,False,False,anterior,24
+2024-12-11,miércoles,False,,True,False,,False,False,anterior,24
+2024-12-12,jueves,False,,True,False,,False,False,anterior,24
+2024-12-13,viernes,False,,True,False,,False,False,anterior,24
+2024-12-14,sábado,False,,False,False,,False,False,anterior,24
+2024-12-15,domingo,False,,False,False,,False,False,anterior,24
+2024-12-16,lunes,False,,True,False,,False,False,anterior,24
+2024-12-17,martes,False,,True,False,,False,False,anterior,24
+2024-12-18,miércoles,False,,True,False,,False,False,anterior,24
+2024-12-19,jueves,False,,True,False,,False,False,anterior,24
+2024-12-20,viernes,False,,True,False,,False,False,anterior,24
+2024-12-21,sábado,False,,False,False,,False,False,anterior,24
+2024-12-22,domingo,False,,False,False,,False,False,anterior,24
+2024-12-23,lunes,False,,True,True,,False,False,anterior,24
+2024-12-24,martes,False,,True,True,,False,False,anterior,24
+2024-12-25,miércoles,True,Navidad,False,True,,False,False,anterior,24
+2024-12-26,jueves,False,,True,True,,False,False,anterior,24
+2024-12-27,viernes,False,,True,True,,False,False,anterior,24
+2024-12-28,sábado,False,,False,True,,False,False,anterior,24
+2024-12-29,domingo,False,,False,True,,False,False,anterior,24
+2024-12-30,lunes,False,,True,True,,False,False,anterior,24
+2024-12-31,martes,False,,True,True,,False,False,anterior,24
+2025-01-01,miércoles,True,Año Nuevo,False,True,,False,False,anterior,24
+2025-01-02,jueves,False,,True,True,,False,False,anterior,24
+2025-01-03,viernes,False,,True,True,,False,False,anterior,24
+2025-01-04,sábado,False,,False,True,,False,False,anterior,24
+2025-01-05,domingo,False,,False,True,,False,False,anterior,24
+2025-01-06,lunes,True,Reyes,False,True,,False,False,anterior,24
+2025-01-07,martes,False,,True,True,,False,False,anterior,24
+2025-01-08,miércoles,False,,True,False,,False,False,anterior,24
+2025-01-09,jueves,False,,True,False,,False,False,anterior,24
+2025-01-10,viernes,False,,True,False,,False,False,anterior,24
+2025-01-11,sábado,False,,False,False,,False,False,anterior,24
+2025-01-12,domingo,False,,False,False,,False,False,anterior,24
+2025-01-13,lunes,False,,True,False,,False,False,anterior,24
+2025-01-14,martes,False,,True,False,,False,False,anterior,24
+2025-01-15,miércoles,False,,True,False,,False,False,anterior,24
+2025-01-16,jueves,False,,True,False,,False,False,anterior,24
+2025-01-17,viernes,False,,True,False,,False,False,anterior,24
+2025-01-18,sábado,False,,False,False,,False,False,anterior,24
+2025-01-19,domingo,False,,False,False,,False,False,anterior,24
+2025-01-20,lunes,False,,True,False,,False,False,anterior,24
+2025-01-21,martes,False,,True,False,,False,False,anterior,24
+2025-01-22,miércoles,False,,True,False,,False,False,anterior,24
+2025-01-23,jueves,False,,True,False,,False,False,anterior,24
+2025-01-24,viernes,False,,True,False,,False,False,anterior,24
+2025-01-25,sábado,False,,False,False,,False,False,anterior,24
+2025-01-26,domingo,False,,False,False,,False,False,anterior,24
+2025-01-27,lunes,False,,True,False,,False,False,anterior,24
+2025-01-28,martes,False,,True,False,,False,False,anterior,24
+2025-01-29,miércoles,False,,True,False,,False,False,anterior,24
+2025-01-30,jueves,False,,True,False,,False,False,anterior,24
+2025-01-31,viernes,False,,True,False,,False,False,anterior,24
+2025-02-01,sábado,False,,False,False,,False,False,anterior,24
+2025-02-02,domingo,False,,False,False,,False,False,anterior,24
+2025-02-03,lunes,False,,True,False,,False,False,anterior,24
+2025-02-04,martes,False,,True,False,,False,False,anterior,24
+2025-02-05,miércoles,False,,True,False,,False,False,anterior,24
+2025-02-06,jueves,False,,True,False,,False,False,anterior,24
+2025-02-07,viernes,False,,True,False,,False,False,anterior,24
+2025-02-08,sábado,False,,False,False,,False,False,anterior,24
+2025-02-09,domingo,False,,False,False,,False,False,anterior,24
+2025-02-10,lunes,False,,True,False,,False,False,anterior,24
+2025-02-11,martes,False,,True,False,,False,False,anterior,24
+2025-02-12,miércoles,False,,True,False,,False,False,anterior,24
+2025-02-13,jueves,False,,True,False,,False,False,anterior,24
+2025-02-14,viernes,False,,True,False,,False,False,anterior,24
+2025-02-15,sábado,False,,False,False,,False,False,anterior,24
+2025-02-16,domingo,False,,False,False,,False,False,anterior,24
+2025-02-17,lunes,False,,True,False,,False,False,anterior,24
+2025-02-18,martes,False,,True,False,,False,False,anterior,24
+2025-02-19,miércoles,False,,True,False,,False,False,anterior,24
+2025-02-20,jueves,False,,True,False,,False,False,anterior,24
+2025-02-21,viernes,False,,True,False,,False,False,anterior,24
+2025-02-22,sábado,False,,False,False,,False,False,anterior,24
+2025-02-23,domingo,False,,False,False,,False,False,anterior,24
+2025-02-24,lunes,False,,True,False,,False,False,anterior,24
+2025-02-25,martes,False,,True,False,,False,False,anterior,24
+2025-02-26,miércoles,False,,True,False,,False,False,anterior,24
+2025-02-27,jueves,False,,True,False,,False,False,anterior,24
+2025-02-28,viernes,False,,True,False,,False,False,anterior,24
+2025-03-01,sábado,False,,False,False,,False,False,anterior,24
+2025-03-02,domingo,False,,False,False,,False,False,anterior,24
+2025-03-03,lunes,False,,True,False,,False,False,anterior,24
+2025-03-04,martes,False,,True,False,,False,False,anterior,24
+2025-03-05,miércoles,False,,True,False,,False,False,anterior,24
+2025-03-06,jueves,False,,True,False,,False,False,anterior,24
+2025-03-07,viernes,False,,True,False,,False,False,anterior,24
+2025-03-08,sábado,False,,False,False,,False,False,anterior,24
+2025-03-09,domingo,False,,False,False,Maratón de la ciudad,False,False,anterior,24
+2025-03-10,lunes,False,,True,False,,False,False,anterior,24
+2025-03-11,martes,False,,True,False,,False,False,anterior,24
+2025-03-12,miércoles,False,,True,False,,False,False,anterior,24
+2025-03-13,jueves,False,,True,False,,False,False,anterior,24
+2025-03-14,viernes,False,,True,False,,False,False,anterior,24
+2025-03-15,sábado,False,,False,False,,False,False,anterior,24
+2025-03-16,domingo,False,,False,False,,False,False,anterior,24
+2025-03-17,lunes,False,,True,False,,False,False,anterior,24
+2025-03-18,martes,False,,True,False,,False,False,anterior,24
+2025-03-19,miércoles,False,,True,False,,False,False,anterior,24
+2025-03-20,jueves,False,,True,False,,False,False,anterior,24
+2025-03-21,viernes,False,,True,False,,False,False,anterior,24
+2025-03-22,sábado,False,,False,False,,False,False,anterior,24
+2025-03-23,domingo,False,,False,False,,False,False,anterior,24
+2025-03-24,lunes,False,,True,False,,False,False,anterior,24
+2025-03-25,martes,False,,True,False,,False,False,anterior,24
+2025-03-26,miércoles,False,,True,False,,False,False,anterior,24
+2025-03-27,jueves,False,,True,False,,False,False,anterior,24
+2025-03-28,viernes,False,,True,False,,False,False,anterior,24
+2025-03-29,sábado,False,,False,False,,False,False,anterior,24
+2025-03-30,domingo,False,,False,False,,False,False,anterior,23
+2025-03-31,lunes,False,,True,False,,False,False,anterior,24
+2025-04-01,martes,False,,True,False,,False,False,anterior,24
+2025-04-02,miércoles,False,,True,False,,False,False,anterior,24
+2025-04-03,jueves,False,,True,False,,False,False,anterior,24
+2025-04-04,viernes,False,,True,False,,False,False,anterior,24
+2025-04-05,sábado,False,,False,False,,False,False,anterior,24
+2025-04-06,domingo,False,,False,False,,False,False,anterior,24
+2025-04-07,lunes,False,,True,False,,False,False,anterior,24
+2025-04-08,martes,False,,True,False,,False,False,anterior,24
+2025-04-09,miércoles,False,,True,False,,False,False,anterior,24
+2025-04-10,jueves,False,,True,False,,False,False,anterior,24
+2025-04-11,viernes,False,,True,False,,False,False,anterior,24
+2025-04-12,sábado,False,,False,False,,False,False,anterior,24
+2025-04-13,domingo,False,,False,False,,False,False,anterior,24
+2025-04-14,lunes,False,,True,True,,False,False,anterior,24
+2025-04-15,martes,False,,True,True,,False,False,anterior,24
+2025-04-16,miércoles,False,,True,True,,False,False,anterior,24
+2025-04-17,jueves,True,Jueves Santo,False,True,,False,False,anterior,24
+2025-04-18,viernes,True,Viernes Santo,False,True,,False,False,anterior,24
+2025-04-19,sábado,False,,False,True,,False,False,anterior,24
+2025-04-20,domingo,False,,False,True,,False,False,anterior,24
+2025-04-21,lunes,False,,True,True,,False,False,anterior,24
+2025-04-22,martes,False,,True,False,,False,False,anterior,24
+2025-04-23,miércoles,False,,True,False,,False,False,anterior,24
+2025-04-24,jueves,False,,True,False,,False,False,anterior,24
+2025-04-25,viernes,False,,True,False,,False,False,anterior,24
+2025-04-26,sábado,False,,False,False,,False,False,anterior,24
+2025-04-27,domingo,False,,False,False,,False,False,anterior,24
+2025-04-28,lunes,False,,True,False,,False,False,anterior,24
+2025-04-29,martes,False,,True,False,,False,False,anterior,24
+2025-04-30,miércoles,False,,True,False,,False,False,anterior,24
+2025-05-01,jueves,True,Fiesta del Trabajo,False,False,,False,False,anterior,24
+2025-05-02,viernes,False,,True,False,,False,False,anterior,24
+2025-05-03,sábado,False,,False,False,,False,False,anterior,24
+2025-05-04,domingo,False,,False,False,,False,False,anterior,24
+2025-05-05,lunes,False,,True,False,,False,False,anterior,24
+2025-05-06,martes,False,,True,False,,False,False,anterior,24
+2025-05-07,miércoles,False,,True,False,,False,False,anterior,24
+2025-05-08,jueves,False,,True,False,,False,False,anterior,24
+2025-05-09,viernes,False,,True,False,,False,False,anterior,24
+2025-05-10,sábado,False,,False,False,,False,False,anterior,24
+2025-05-11,domingo,False,,False,False,,False,False,anterior,24
+2025-05-12,lunes,False,,True,False,,False,False,anterior,24
+2025-05-13,martes,False,,True,False,,False,False,anterior,24
+2025-05-14,miércoles,False,,True,False,,False,False,anterior,24
+2025-05-15,jueves,False,,True,False,,False,False,anterior,24
+2025-05-16,viernes,False,,True,False,,False,False,anterior,24
+2025-05-17,sábado,False,,False,False,Noche de los museos,False,False,anterior,24
+2025-05-18,domingo,False,,False,False,,False,False,anterior,24
+2025-05-19,lunes,False,,True,False,,False,False,anterior,24
+2025-05-20,martes,False,,True,False,,False,False,anterior,24
+2025-05-21,miércoles,False,,True,False,,False,False,anterior,24
+2025-05-22,jueves,False,,True,False,,False,False,anterior,24
+2025-05-23,viernes,False,,True,False,,False,False,anterior,24
+2025-05-24,sábado,False,,False,False,,False,False,anterior,24
+2025-05-25,domingo,False,,False,False,,False,False,anterior,24
+2025-05-26,lunes,False,,True,False,,False,False,anterior,24
+2025-05-27,martes,False,,True,False,,False,False,anterior,24
+2025-05-28,miércoles,False,,True,False,,False,False,anterior,24
+2025-05-29,jueves,False,,True,False,,False,False,anterior,24
+2025-05-30,viernes,False,,True,False,,False,False,anterior,24
+2025-05-31,sábado,False,,False,False,,False,False,anterior,24
+2025-06-01,domingo,False,,False,False,,False,False,anterior,24
+2025-06-02,lunes,False,,True,False,,False,False,anterior,24
+2025-06-03,martes,False,,True,False,,False,False,anterior,24
+2025-06-04,miércoles,False,,True,False,,False,False,anterior,24
+2025-06-05,jueves,False,,True,False,,False,False,anterior,24
+2025-06-06,viernes,False,,True,False,,False,False,anterior,24
+2025-06-07,sábado,False,,False,False,,False,False,anterior,24
+2025-06-08,domingo,False,,False,False,,False,False,anterior,24
+2025-06-09,lunes,False,,True,False,,False,False,anterior,24
+2025-06-10,martes,False,,True,False,,False,False,anterior,24
+2025-06-11,miércoles,False,,True,False,,False,False,anterior,24
+2025-06-12,jueves,False,,True,False,,False,False,anterior,24
+2025-06-13,viernes,False,,True,False,,False,False,anterior,24
+2025-06-14,sábado,False,,False,False,,False,False,anterior,24
+2025-06-15,domingo,False,,False,False,,False,False,anterior,24
+2025-06-16,lunes,False,,True,False,,False,False,anterior,24
+2025-06-17,martes,False,,True,False,,False,False,anterior,24
+2025-06-18,miércoles,False,,True,False,,False,False,anterior,24
+2025-06-19,jueves,False,,True,False,,False,False,anterior,24
+2025-06-20,viernes,False,,True,False,,False,False,anterior,24
+2025-06-21,sábado,False,,False,True,,False,False,anterior,24
+2025-06-22,domingo,False,,False,True,,False,False,anterior,24
+2025-06-23,lunes,False,,True,True,,False,False,anterior,24
+2025-06-24,martes,True,Fiesta de la ciudad,False,True,,False,False,anterior,24
+2025-06-25,miércoles,False,,True,True,,False,False,anterior,24
+2025-06-26,jueves,False,,True,True,,False,False,anterior,24
+2025-06-27,viernes,False,,True,True,,False,False,anterior,24
+2025-06-28,sábado,False,,False,True,Concierto en el Auditorio,False,False,anterior,24
+2025-06-29,domingo,False,,False,True,,False,False,anterior,24
+2025-06-30,lunes,False,,True,True,,False,False,anterior,24
+2025-07-01,martes,False,,True,True,,False,False,anterior,24
+2025-07-02,miércoles,False,,True,True,,False,False,anterior,24
+2025-07-03,jueves,False,,True,True,,False,False,anterior,24
+2025-07-04,viernes,False,,True,True,,False,False,anterior,24
+2025-07-05,sábado,False,,False,True,,False,False,anterior,24
+2025-07-06,domingo,False,,False,True,,False,False,anterior,24
+2025-07-07,lunes,False,,True,True,,True,False,anterior,24
+2025-07-08,martes,False,,True,True,,True,False,anterior,24
+2025-07-09,miércoles,False,,True,True,,True,False,anterior,24
+2025-07-10,jueves,False,,True,True,,True,False,anterior,24
+2025-07-11,viernes,False,,True,True,,True,False,anterior,24
+2025-07-12,sábado,False,,False,True,,True,False,anterior,24
+2025-07-13,domingo,False,,False,True,,True,False,anterior,24
+2025-07-14,lunes,False,,True,True,,False,False,anterior,24
+2025-07-15,martes,False,,True,True,,False,False,anterior,24
+2025-07-16,miércoles,False,,True,True,,False,False,anterior,24
+2025-07-17,jueves,False,,True,True,,False,False,anterior,24
+2025-07-18,viernes,False,,True,True,,False,False,anterior,24
+2025-07-19,sábado,False,,False,True,,False,False,anterior,24
+2025-07-20,domingo,False,,False,True,,False,False,anterior,24
+2025-07-21,lunes,False,,True,True,,False,False,anterior,24
+2025-07-22,martes,False,,True,True,,False,False,anterior,24
+2025-07-23,miércoles,False,,True,True,,False,False,anterior,24
+2025-07-24,jueves,False,,True,True,,False,False,anterior,24
+2025-07-25,viernes,False,,True,True,,False,False,anterior,24
+2025-07-26,sábado,False,,False,True,,False,False,anterior,24
+2025-07-27,domingo,False,,False,True,,False,False,anterior,24
+2025-07-28,lunes,False,,True,True,,False,False,anterior,24
+2025-07-29,martes,False,,True,True,,False,False,anterior,24
+2025-07-30,miércoles,False,,True,True,,False,False,anterior,24
+2025-07-31,jueves,False,,True,True,,False,False,anterior,24
+2025-08-01,viernes,False,,True,True,,False,False,anterior,24
+2025-08-02,sábado,False,,False,True,,False,False,anterior,24
+2025-08-03,domingo,False,,False,True,,False,False,anterior,24
+2025-08-04,lunes,False,,True,True,,False,False,anterior,24
+2025-08-05,martes,False,,True,True,,False,False,anterior,24
+2025-08-06,miércoles,False,,True,True,,False,False,anterior,24
+2025-08-07,jueves,False,,True,True,,False,False,anterior,24
+2025-08-08,viernes,False,,True,True,,False,False,anterior,24
+2025-08-09,sábado,False,,False,True,,False,False,anterior,24
+2025-08-10,domingo,False,,False,True,,False,False,anterior,24
+2025-08-11,lunes,False,,True,True,,False,False,anterior,24
+2025-08-12,martes,False,,True,True,,False,False,anterior,24
+2025-08-13,miércoles,False,,True,True,,False,False,anterior,24
+2025-08-14,jueves,False,,True,True,,False,False,anterior,24
+2025-08-15,viernes,True,Asunción,False,True,,False,False,anterior,24
+2025-08-16,sábado,False,,False,True,,False,False,anterior,24
+2025-08-17,domingo,False,,False,True,,False,False,anterior,24
+2025-08-18,lunes,False,,True,True,,False,False,anterior,24
+2025-08-19,martes,False,,True,True,,False,False,anterior,24
+2025-08-20,miércoles,False,,True,True,,False,False,anterior,24
+2025-08-21,jueves,False,,True,True,,False,False,anterior,24
+2025-08-22,viernes,False,,True,True,,False,False,anterior,24
+2025-08-23,sábado,False,,False,True,,False,False,anterior,24
+2025-08-24,domingo,False,,False,True,,False,False,anterior,24
+2025-08-25,lunes,False,,True,True,,False,False,anterior,24
+2025-08-26,martes,False,,True,True,,False,False,anterior,24
+2025-08-27,miércoles,False,,True,True,,False,False,anterior,24
+2025-08-28,jueves,False,,True,True,,False,False,anterior,24
+2025-08-29,viernes,False,,True,True,,False,False,anterior,24
+2025-08-30,sábado,False,,False,True,,False,False,anterior,24
+2025-08-31,domingo,False,,False,True,,False,False,anterior,24
+2025-09-01,lunes,False,,True,True,,False,False,anterior,24
+2025-09-02,martes,False,,True,True,,False,False,anterior,24
+2025-09-03,miércoles,False,,True,True,,False,False,anterior,24
+2025-09-04,jueves,False,,True,True,,False,False,anterior,24
+2025-09-05,viernes,False,,True,True,,False,False,anterior,24
+2025-09-06,sábado,False,,False,True,,False,False,anterior,24
+2025-09-07,domingo,False,,False,True,,False,False,anterior,24
+2025-09-08,lunes,False,,True,False,,False,False,anterior,24
+2025-09-09,martes,False,,True,False,,False,False,anterior,24
+2025-09-10,miércoles,False,,True,False,,False,False,anterior,24
+2025-09-11,jueves,False,,True,False,,False,False,anterior,24
+2025-09-12,viernes,False,,True,False,,False,False,anterior,24
+2025-09-13,sábado,False,,False,False,Feria de la Lonja,False,False,anterior,24
+2025-09-14,domingo,False,,False,False,,False,False,anterior,24
+2025-09-15,lunes,True,Fiestas mayores,False,False,,False,False,anterior,24
+2025-09-16,martes,False,,True,False,,False,False,anterior,24
+2025-09-17,miércoles,False,,True,False,,False,False,anterior,24
+2025-09-18,jueves,False,,True,False,,False,False,anterior,24
+2025-09-19,viernes,False,,True,False,,False,False,anterior,24
+2025-09-20,sábado,False,,False,False,,False,False,anterior,24
+2025-09-21,domingo,False,,False,False,,False,False,anterior,24
+2025-09-22,lunes,False,,True,False,,False,False,anterior,24
+2025-09-23,martes,False,,True,False,,False,False,anterior,24
+2025-09-24,miércoles,False,,True,False,,False,False,anterior,24
+2025-09-25,jueves,False,,True,False,,False,False,anterior,24
+2025-09-26,viernes,False,,True,False,,False,False,anterior,24
+2025-09-27,sábado,False,,False,False,,False,False,anterior,24
+2025-09-28,domingo,False,,False,False,,False,False,anterior,24
+2025-09-29,lunes,False,,True,False,,False,False,anterior,24
+2025-09-30,martes,False,,True,False,,False,False,anterior,24
+2025-10-01,miércoles,False,,True,False,,False,False,anterior,24
+2025-10-02,jueves,False,,True,False,,False,False,anterior,24
+2025-10-03,viernes,False,,True,False,,False,False,anterior,24
+2025-10-04,sábado,False,,False,False,,False,False,anterior,24
+2025-10-05,domingo,False,,False,False,,False,False,anterior,24
+2025-10-06,lunes,False,,True,False,,False,False,anterior,24
+2025-10-07,martes,False,,True,False,,False,False,anterior,24
+2025-10-08,miércoles,False,,True,False,,False,False,anterior,24
+2025-10-09,jueves,False,,True,False,,False,False,anterior,24
+2025-10-10,viernes,False,,True,False,,False,False,anterior,24
+2025-10-11,sábado,False,,False,False,,False,False,anterior,24
+2025-10-12,domingo,True,Fiesta Nacional,False,False,,False,False,anterior,24
+2025-10-13,lunes,False,,True,False,,False,False,anterior,24
+2025-10-14,martes,False,,True,False,,False,False,anterior,24
+2025-10-15,miércoles,False,,True,False,,False,True,anterior,24
+2025-10-16,jueves,False,,True,False,,False,False,anterior,24
+2025-10-17,viernes,False,,True,False,,False,False,anterior,24
+2025-10-18,sábado,False,,False,False,,False,False,anterior,24
+2025-10-19,domingo,False,,False,False,,False,False,anterior,24
+2025-10-20,lunes,False,,True,False,,False,False,anterior,24
+2025-10-21,martes,False,,True,False,,False,False,anterior,24
+2025-10-22,miércoles,False,,True,False,,False,False,anterior,24
+2025-10-23,jueves,False,,True,False,,False,False,anterior,24
+2025-10-24,viernes,False,,True,False,,False,False,anterior,24
+2025-10-25,sábado,False,,False,False,Final de baloncesto en el Polideportivo,False,False,anterior,24
+2025-10-26,domingo,False,,False,False,,False,False,anterior,25
+2025-10-27,lunes,False,,True,False,,False,False,anterior,24
+2025-10-28,martes,False,,True,False,,False,False,anterior,24
+2025-10-29,miércoles,False,,True,False,,False,False,anterior,24
+2025-10-30,jueves,False,,True,False,,False,False,anterior,24
+2025-10-31,viernes,False,,True,False,,False,False,anterior,24
+2025-11-01,sábado,True,Todos los Santos,False,False,,False,False,anterior,24
+2025-11-02,domingo,False,,False,False,,False,False,anterior,24
+2025-11-03,lunes,False,,True,False,,False,False,anterior,24
+2025-11-04,martes,False,,True,False,,False,False,anterior,24
+2025-11-05,miércoles,False,,True,False,,False,False,anterior,24
+2025-11-06,jueves,False,,True,False,,False,False,anterior,24
+2025-11-07,viernes,False,,True,False,,False,False,anterior,24
+2025-11-08,sábado,False,,False,False,,False,False,anterior,24
+2025-11-09,domingo,False,,False,False,,False,False,anterior,24
+2025-11-10,lunes,False,,True,False,,False,False,anterior,24
+2025-11-11,martes,False,,True,False,,False,False,anterior,24
+2025-11-12,miércoles,False,,True,False,,False,False,anterior,24
+2025-11-13,jueves,False,,True,False,,False,False,anterior,24
+2025-11-14,viernes,False,,True,False,,False,False,anterior,24
+2025-11-15,sábado,False,,False,False,,False,False,anterior,24
+2025-11-16,domingo,False,,False,False,,False,False,anterior,24
+2025-11-17,lunes,False,,True,False,,False,False,anterior,24
+2025-11-18,martes,False,,True,False,,False,False,anterior,24
+2025-11-19,miércoles,False,,True,False,,False,True,anterior,24
+2025-11-20,jueves,False,,True,False,,False,True,anterior,24
+2025-11-21,viernes,False,,True,False,,False,True,anterior,24
+2025-11-22,sábado,False,,False,False,,False,False,anterior,24
+2025-11-23,domingo,False,,False,False,,False,False,anterior,24
+2025-11-24,lunes,False,,True,False,,False,False,anterior,24
+2025-11-25,martes,False,,True,False,,False,False,anterior,24
+2025-11-26,miércoles,False,,True,False,,False,False,anterior,24
+2025-11-27,jueves,False,,True,False,,False,False,anterior,24
+2025-11-28,viernes,False,,True,False,,False,False,anterior,24
+2025-11-29,sábado,False,,False,False,,False,False,anterior,24
+2025-11-30,domingo,False,,False,False,,False,False,anterior,24
+2025-12-01,lunes,False,,True,False,,False,False,anterior,24
+2025-12-02,martes,False,,True,False,,False,False,anterior,24
+2025-12-03,miércoles,False,,True,False,,False,False,anterior,24
+2025-12-04,jueves,False,,True,False,,False,False,anterior,24
+2025-12-05,viernes,False,,True,False,,False,False,anterior,24
+2025-12-06,sábado,True,Constitución,False,False,,False,False,anterior,24
+2025-12-07,domingo,False,,False,False,,False,False,anterior,24
+2025-12-08,lunes,True,Inmaculada,False,False,,False,False,anterior,24
+2025-12-09,martes,False,,True,False,,False,False,anterior,24
+2025-12-10,miércoles,False,,True,False,,False,False,anterior,24
+2025-12-11,jueves,False,,True,False,,False,False,anterior,24
+2025-12-12,viernes,False,,True,False,,False,False,anterior,24
+2025-12-13,sábado,False,,False,False,,False,False,anterior,24
+2025-12-14,domingo,False,,False,False,,False,False,anterior,24
+2025-12-15,lunes,False,,True,False,,False,False,anterior,24
+2025-12-16,martes,False,,True,False,,False,False,anterior,24
+2025-12-17,miércoles,False,,True,False,,False,False,anterior,24
+2025-12-18,jueves,False,,True,False,,False,False,anterior,24
+2025-12-19,viernes,False,,True,False,,False,False,anterior,24
+2025-12-20,sábado,False,,False,False,,False,False,anterior,24
+2025-12-21,domingo,False,,False,False,,False,False,anterior,24
+2025-12-22,lunes,False,,True,False,,False,False,anterior,24
+2025-12-23,martes,False,,True,True,,False,False,anterior,24
+2025-12-24,miércoles,False,,True,True,,False,False,anterior,24
+2025-12-25,jueves,True,Navidad,False,True,,False,False,anterior,24
+2025-12-26,viernes,False,,True,True,,False,False,anterior,24
+2025-12-27,sábado,False,,False,True,,False,False,anterior,24
+2025-12-28,domingo,False,,False,True,,False,False,anterior,24
+2025-12-29,lunes,False,,True,True,,False,False,anterior,24
+2025-12-30,martes,False,,True,True,,False,False,anterior,24
+2025-12-31,miércoles,False,,True,True,,False,False,anterior,24
+2026-01-01,jueves,True,Año Nuevo,False,True,,False,False,anterior,24
+2026-01-02,viernes,False,,True,True,,False,False,anterior,24
+2026-01-03,sábado,False,,False,True,,False,False,anterior,24
+2026-01-04,domingo,False,,False,True,,False,False,anterior,24
+2026-01-05,lunes,False,,True,True,,False,False,anterior,24
+2026-01-06,martes,True,Reyes,False,True,,False,False,anterior,24
+2026-01-07,miércoles,False,,True,True,,False,False,anterior,24
+2026-01-08,jueves,False,,True,False,,False,False,anterior,24
+2026-01-09,viernes,False,,True,False,,False,False,anterior,24
+2026-01-10,sábado,False,,False,False,,False,False,anterior,24
+2026-01-11,domingo,False,,False,False,,False,False,anterior,24
+2026-01-12,lunes,False,,True,False,,False,False,anterior,24
+2026-01-13,martes,False,,True,False,,False,False,anterior,24
+2026-01-14,miércoles,False,,True,False,,False,False,anterior,24
+2026-01-15,jueves,False,,True,False,,False,False,anterior,24
+2026-01-16,viernes,False,,True,False,,False,False,anterior,24
+2026-01-17,sábado,False,,False,False,,False,False,anterior,24
+2026-01-18,domingo,False,,False,False,,False,False,anterior,24
+2026-01-19,lunes,False,,True,False,,False,False,anterior,24
+2026-01-20,martes,False,,True,False,,False,False,anterior,24
+2026-01-21,miércoles,False,,True,False,,False,False,anterior,24
+2026-01-22,jueves,False,,True,False,,False,False,anterior,24
+2026-01-23,viernes,False,,True,False,,False,False,anterior,24
+2026-01-24,sábado,False,,False,False,,False,False,anterior,24
+2026-01-25,domingo,False,,False,False,,False,False,anterior,24
+2026-01-26,lunes,False,,True,False,,False,False,anterior,24
+2026-01-27,martes,False,,True,False,,False,True,anterior,24
+2026-01-28,miércoles,False,,True,False,,False,False,anterior,24
+2026-01-29,jueves,False,,True,False,,False,False,anterior,24
+2026-01-30,viernes,False,,True,False,,False,False,anterior,24
+2026-01-31,sábado,False,,False,False,,False,False,anterior,24
+2026-02-01,domingo,False,,False,False,,False,False,anterior,24
+2026-02-02,lunes,False,,True,False,,False,False,anterior,24
+2026-02-03,martes,False,,True,False,,False,False,anterior,24
+2026-02-04,miércoles,False,,True,False,,False,False,anterior,24
+2026-02-05,jueves,False,,True,False,,False,False,anterior,24
+2026-02-06,viernes,False,,True,False,,False,False,anterior,24
+2026-02-07,sábado,False,,False,False,,False,False,anterior,24
+2026-02-08,domingo,False,,False,False,,False,False,anterior,24
+2026-02-09,lunes,False,,True,False,,False,False,anterior,24
+2026-02-10,martes,False,,True,False,,False,False,anterior,24
+2026-02-11,miércoles,False,,True,False,,False,False,anterior,24
+2026-02-12,jueves,False,,True,False,,False,False,anterior,24
+2026-02-13,viernes,False,,True,False,,False,False,anterior,24
+2026-02-14,sábado,False,,False,False,,False,False,anterior,24
+2026-02-15,domingo,False,,False,False,,False,False,anterior,24
+2026-02-16,lunes,False,,True,False,,False,False,anterior,24
+2026-02-17,martes,False,,True,False,,False,False,anterior,24
+2026-02-18,miércoles,False,,True,False,,False,False,anterior,24
+2026-02-19,jueves,False,,True,False,,False,False,anterior,24
+2026-02-20,viernes,False,,True,False,,False,False,anterior,24
+2026-02-21,sábado,False,,False,False,,False,False,anterior,24
+2026-02-22,domingo,False,,False,False,,False,False,anterior,24
+2026-02-23,lunes,False,,True,False,,False,False,anterior,24
+2026-02-24,martes,False,,True,False,,False,False,anterior,24
+2026-02-25,miércoles,False,,True,False,,False,False,anterior,24
+2026-02-26,jueves,False,,True,False,,False,False,anterior,24
+2026-02-27,viernes,False,,True,False,,False,False,anterior,24
+2026-02-28,sábado,False,,False,False,,False,False,anterior,24
+2026-03-01,domingo,False,,False,False,,False,False,anterior,24
+2026-03-02,lunes,False,,True,False,,False,False,anterior,24
+2026-03-03,martes,False,,True,False,,False,False,anterior,24
+2026-03-04,miércoles,False,,True,False,,False,False,anterior,24
+2026-03-05,jueves,False,,True,False,,False,False,anterior,24
+2026-03-06,viernes,False,,True,False,,False,False,anterior,24
+2026-03-07,sábado,False,,False,False,,False,False,anterior,24
+2026-03-08,domingo,False,,False,False,Maratón de la ciudad,False,False,anterior,24
+2026-03-09,lunes,False,,True,False,,False,False,anterior,24
+2026-03-10,martes,False,,True,False,,False,False,anterior,24
+2026-03-11,miércoles,False,,True,False,,False,False,anterior,24
+2026-03-12,jueves,False,,True,False,,False,False,anterior,24
+2026-03-13,viernes,False,,True,False,,False,False,anterior,24
+2026-03-14,sábado,False,,False,False,,False,False,anterior,24
+2026-03-15,domingo,False,,False,False,,False,False,anterior,24
+2026-03-16,lunes,False,,True,False,,False,False,anterior,24
+2026-03-17,martes,False,,True,False,,False,False,anterior,24
+2026-03-18,miércoles,False,,True,False,,False,False,anterior,24
+2026-03-19,jueves,False,,True,False,,False,False,anterior,24
+2026-03-20,viernes,False,,True,False,,False,False,anterior,24
+2026-03-21,sábado,False,,False,False,,False,False,anterior,24
+2026-03-22,domingo,False,,False,False,,False,False,anterior,24
+2026-03-23,lunes,False,,True,False,,False,False,anterior,24
+2026-03-24,martes,False,,True,False,,False,False,anterior,24
+2026-03-25,miércoles,False,,True,False,,False,False,anterior,24
+2026-03-26,jueves,False,,True,False,,False,False,anterior,24
+2026-03-27,viernes,False,,True,False,,False,False,anterior,24
+2026-03-28,sábado,False,,False,False,,False,False,anterior,24
+2026-03-29,domingo,False,,False,False,,False,False,anterior,23
+2026-03-30,lunes,False,,True,True,,False,False,anterior,24
+2026-03-31,martes,False,,True,True,,False,False,anterior,24
+2026-04-01,miércoles,False,,True,True,,False,False,anterior,24
+2026-04-02,jueves,True,Jueves Santo,False,True,,False,False,anterior,24
+2026-04-03,viernes,True,Viernes Santo,False,True,,False,False,anterior,24
+2026-04-04,sábado,False,,False,True,,False,False,anterior,24
+2026-04-05,domingo,False,,False,True,,False,False,anterior,24
+2026-04-06,lunes,False,,True,True,,False,False,anterior,24
+2026-04-07,martes,False,,True,False,,False,False,anterior,24
+2026-04-08,miércoles,False,,True,False,,False,False,anterior,24
+2026-04-09,jueves,False,,True,False,,False,False,anterior,24
+2026-04-10,viernes,False,,True,False,,False,False,anterior,24
+2026-04-11,sábado,False,,False,False,,False,False,anterior,24
+2026-04-12,domingo,False,,False,False,,False,False,anterior,24
+2026-04-13,lunes,False,,True,False,,False,False,anterior,24
+2026-04-14,martes,False,,True,False,,False,False,anterior,24
+2026-04-15,miércoles,False,,True,False,,False,False,anterior,24
+2026-04-16,jueves,False,,True,False,,False,False,anterior,24
+2026-04-17,viernes,False,,True,False,,False,False,anterior,24
+2026-04-18,sábado,False,,False,False,,False,False,anterior,24
+2026-04-19,domingo,False,,False,False,,False,False,anterior,24
+2026-04-20,lunes,False,,True,False,,False,False,anterior,24
+2026-04-21,martes,False,,True,False,,False,False,anterior,24
+2026-04-22,miércoles,False,,True,False,,False,False,anterior,24
+2026-04-23,jueves,False,,True,False,,False,False,anterior,24
+2026-04-24,viernes,False,,True,False,,False,False,anterior,24
+2026-04-25,sábado,False,,False,False,,False,False,anterior,24
+2026-04-26,domingo,False,,False,False,,False,False,anterior,24
+2026-04-27,lunes,False,,True,False,,False,False,anterior,24
+2026-04-28,martes,False,,True,False,,False,False,anterior,24
+2026-04-29,miércoles,False,,True,False,,False,False,anterior,24
+2026-04-30,jueves,False,,True,False,,False,False,anterior,24
+2026-05-01,viernes,True,Fiesta del Trabajo,False,False,,False,False,anterior,24
+2026-05-02,sábado,False,,False,False,,False,False,anterior,24
+2026-05-03,domingo,False,,False,False,,False,False,anterior,24
+2026-05-04,lunes,False,,True,False,,False,False,anterior,24
+2026-05-05,martes,False,,True,False,,False,False,anterior,24
+2026-05-06,miércoles,False,,True,False,,False,False,anterior,24
+2026-05-07,jueves,False,,True,False,,False,False,anterior,24
+2026-05-08,viernes,False,,True,False,,False,False,anterior,24
+2026-05-09,sábado,False,,False,False,,False,False,anterior,24
+2026-05-10,domingo,False,,False,False,,False,False,anterior,24
+2026-05-11,lunes,False,,True,False,,False,False,anterior,24
+2026-05-12,martes,False,,True,False,,False,False,anterior,24
+2026-05-13,miércoles,False,,True,False,,False,False,anterior,24
+2026-05-14,jueves,False,,True,False,,False,False,anterior,24
+2026-05-15,viernes,False,,True,False,,False,False,anterior,24
+2026-05-16,sábado,False,,False,False,Noche de los museos,False,False,anterior,24
+2026-05-17,domingo,False,,False,False,,False,False,anterior,24
+2026-05-18,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-19,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-20,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-21,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-22,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-23,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-05-24,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-05-25,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-26,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-27,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-28,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-29,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-05-30,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-05-31,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-06-01,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-02,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-03,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-04,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-05,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-06,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-06-07,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-06-08,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-09,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-10,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-11,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-12,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-13,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-06-14,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-06-15,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-16,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-17,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-18,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-19,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-06-20,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-06-21,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-06-22,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-06-23,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-06-24,miércoles,True,Fiesta de la ciudad,False,True,,False,False,nueva (abono rebajado),24
+2026-06-25,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-06-26,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-06-27,sábado,False,,False,True,Concierto en el Auditorio,False,False,nueva (abono rebajado),24
+2026-06-28,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-06-29,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-06-30,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-01,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-02,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-03,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-04,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-07-05,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-07-06,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-07,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-08,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-09,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-10,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-11,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-07-12,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-07-13,lunes,False,,True,True,,True,False,nueva (abono rebajado),24
+2026-07-14,martes,False,,True,True,,True,False,nueva (abono rebajado),24
+2026-07-15,miércoles,False,,True,True,,True,False,nueva (abono rebajado),24
+2026-07-16,jueves,False,,True,True,,True,False,nueva (abono rebajado),24
+2026-07-17,viernes,False,,True,True,,True,False,nueva (abono rebajado),24
+2026-07-18,sábado,False,,False,True,,True,False,nueva (abono rebajado),24
+2026-07-19,domingo,False,,False,True,,True,False,nueva (abono rebajado),24
+2026-07-20,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-21,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-22,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-23,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-24,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-25,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-07-26,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-07-27,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-28,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-29,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-30,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-07-31,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-01,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-02,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-03,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-04,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-05,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-06,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-07,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-08,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-09,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-10,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-11,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-12,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-13,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-14,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-15,sábado,True,Asunción,False,True,,False,False,nueva (abono rebajado),24
+2026-08-16,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-17,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-18,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-19,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-20,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-21,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-22,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-23,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-24,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-25,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-26,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-27,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-28,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-08-29,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-30,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-08-31,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-09-01,martes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-09-02,miércoles,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-09-03,jueves,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-09-04,viernes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-09-05,sábado,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-09-06,domingo,False,,False,True,,False,False,nueva (abono rebajado),24
+2026-09-07,lunes,False,,True,True,,False,False,nueva (abono rebajado),24
+2026-09-08,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-09,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-10,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-11,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-12,sábado,False,,False,False,Feria de la Lonja,False,False,nueva (abono rebajado),24
+2026-09-13,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-09-14,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-15,martes,True,Fiestas mayores,False,False,,False,False,nueva (abono rebajado),24
+2026-09-16,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-17,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-18,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-19,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-09-20,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-09-21,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-22,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-23,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-24,jueves,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-25,viernes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-26,sábado,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-09-27,domingo,False,,False,False,,False,False,nueva (abono rebajado),24
+2026-09-28,lunes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-29,martes,False,,True,False,,False,False,nueva (abono rebajado),24
+2026-09-30,miércoles,False,,True,False,,False,False,nueva (abono rebajado),24
